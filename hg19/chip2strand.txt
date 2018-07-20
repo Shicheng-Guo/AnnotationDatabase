@@ -1,0 +1,10 @@
+# http://www.well.ox.ac.uk/~wrayner/strand/sourceStrand/index.html
+wget http://www.well.ox.ac.uk/~wrayner/strand/sourceStrand/HumanOmni2.5-4v1_B-b37.Source.strand.zip
+wget http://www.well.ox.ac.uk/~wrayner/strand/sourceStrand/HumanOmni25-8v1-2_A1-b37.Source.strand.zip
+wget http://www.well.ox.ac.uk/~wrayner/strand/sourceStrand/humanomniexpress-24v1-0_a-b37.Source.strand.zip
+wget http://www.well.ox.ac.uk/~wrayner/strand/sourceStrand/HumanOmniZhongHua-8v1-2_A-b37.Source.strand.zip
+wget http://www.well.ox.ac.uk/~wrayner/strand/sourceStrand/Immuno_BeadChip_11419691_B-b37.Source.strand.zip
+wget http://www.well.ox.ac.uk/~wrayner/strand/sourceStrand/InfiniumCoreExome-24v1-1_A-b37.Source.strand.zip
+wget http://www.well.ox.ac.uk/~wrayner/strand/sourceStrand/InfiniumExome-24v1-1_A1-b37.Source.strand.zip
+wget http://www.well.ox.ac.uk/~wrayner/strand/sourceStrand/InfiniumPsychArray-24v1-1_A2-b37.Source.strand.zip
+wget http://www.well.ox.ac.uk/~wrayner/strand/sourceStrand/Consortium-OncoArray_15047405_A-b37.Source.strand.zip
