@@ -1,0 +1,7 @@
+track type=bedGraph name="allCpG-SNP150" description="CpG-SNP in Human Genome based on allSNP150"
+    visibility=display_mode color=r,g,b altColor=r,g,b
+    priority=priority autoScale=on|off alwaysZero=on|off gridDefault=on|off
+    maxHeightPixels=max:default:min graphType=bar|points viewLimits=lower:upper
+    yLineMark=real-value yLineOnOff=on|off
+    windowingFunction=maximum|mean|minimum smoothingWindow=off|2-16
+

@@ -1,0 +1,1738 @@
+Parental lifespan	1	5	0.2
+Response to paliperidone in schizophrenia (Multivariate)	1	26	0.0384615384615385
+Visceral adipose tissue	2	5	0.4
+Delta-5 desaturase activity	2	8	0.25
+Chickenpox	2	32	0.0625
+Immunoglobulin light chain (AL) amyloidosis (serum Ig light chain only lambda based profile)	1	1	1
+Eosinophil percentage of white cells	24	190	0.126315789473684
+Multiple system atrophy (pathologically confirmed)	1	5	0.2
+Bone mineral density (paediatric, skull)	5	19	0.263157894736842
+Hormone measurements	1	7	0.142857142857143
+Urate levels in overweight individuals	7	43	0.162790697674419
+Multiple sclerosis (severity)	3	12	0.25
+Risky sexual behaviors (alcohol dependence interaction)	1	8	0.125
+Optic disc area	13	65	0.2
+Diabetes in response to antihypertensive drug treatment (treatment strategy interaction)	2	3	0.666666666666667
+Systemic lupus erythematosus	88	402	0.218905472636816
+Multiple sclerosis	79	313	0.252396166134185
+Serum dimethylarginine levels (asymmetric/symetric ratio)	3	24	0.125
+Congenital heart disease (maternal effect)	1	20	0.05
+Longevity	6	52	0.115384615384615
+QRS duration in Tripanosoma cruzi seropositivity	3	38	0.0789473684210526
+Reticulocyte fraction of red cells	42	203	0.206896551724138
+Response to hepatitis B vaccine	7	20	0.35
+Visceral adipose tissue/subcutaneous adipose tissue ratio adjusted for BMI	1	4	0.25
+Itch intensity from mosquito bite	7	98	0.0714285714285714
+Sexual dimorphism in anthropometric traits	1	10	0.1
+Executive inhibition (Stroop WIT and CIT) in attention deficit hyperactivity disorder	1	1	1
+Cognitive ability	21	69	0.304347826086957
+Cerebrospinal AB1-42 levels in Alzheimer's disease dementia	1	2	0.5
+Renal function-related traits (BUN)	2	15	0.133333333333333
+Lp (a) levels	2	5	0.4
+Triglyceride levels in medium VLDL	1	19	0.0526315789473684
+Vitamin D insufficiency	1	3	0.333333333333333
+Lung adenocarcinoma	12	92	0.130434782608696
+Rheumatoid arthritis (rheumatoid factor and/or anti-cyclic citrullinated peptide seropositive)	1	4	0.25
+Body mass index (change over time) in chronic obstructive pulmonary disease	1	6	0.166666666666667
+Bladder cancer (smoking interaction)	1	5	0.2
+Body mass index in asthmatics	3	6	0.5
+Monocyte percentage of white cells	33	224	0.147321428571429
+Waist-to-hip circumference ratio (recreational physical activity interaction)	1	2	0.5
+Insulin levels	1	2	0.5
+Economic and political preferences	2	17	0.117647058823529
+Red blood cell traits	19	84	0.226190476190476
+Type 1 diabetes nephropathy	4	11	0.363636363636364
+Fear of pain	1	4	0.25
+Alcohol consumption	5	44	0.113636363636364
+QRS complex (12-leadsum)	4	21	0.19047619047619
+Elevated serum prostate-specific antigen levels in healthy men	1	2	0.5
+Response to platinum-based chemotherapy (carboplatin)	2	18	0.111111111111111
+Cocaine dependence	2	15	0.133333333333333
+Moyamoya disease	7	36	0.194444444444444
+Adverse response to chemotherapy (neutropenia/leucopenia) (cyclophosphamide)	1	3	0.333333333333333
+Cervical cancer	4	27	0.148148148148148
+Glaucoma	2	13	0.153846153846154
+Total cholesterol change in response to fenofibrate in statin-treated type 2 diabetes	3	35	0.0857142857142857
+Parental extreme longevity (95 years and older)	13	70	0.185714285714286
+Benign prostatic hyperplasia and/or lower urinary tract symptoms	1	1	1
+Reticulocyte count	36	199	0.180904522613065
+Psoriasis vulgaris	9	39	0.230769230769231
+Aging (time to death)	1	3	0.333333333333333
+World class endurance athleticism	1	3	0.333333333333333
+Venlafaxine response in generalised anxiety disorder (responders vs non-responders after 24 weeks)	1	5	0.2
+Mean corpuscular hemoglobin concentration	24	122	0.19672131147541
+Pursuit maintenance gain	10	79	0.126582278481013
+Sudden cardiac arrest	9	50	0.18
+Heart rate variability traits (pvRSA/HF)	5	12	0.416666666666667
+Neurofibrillary tangles or cerebral amyloid angiopathy (pleiotropy)	1	2	0.5
+Periodontitis (CDC/AAP)	1	28	0.0357142857142857
+Thrombin-activatable fibrinolysis inhibitor activation peptide	1	11	0.0909090909090909
+Urinary 1,3-butadiene metabolite levels in smokers	2	4	0.5
+Response to methotrexate in juvenile idiopathic arthritis	1	18	0.0555555555555556
+Non-alcoholic fatty liver disease histology (lobular)	4	13	0.307692307692308
+Stearic acid (18:0) levels	3	11	0.272727272727273
+Verbal memory performance (residualized delayed recall change)	2	4	0.5
+Psychosis in Alzheimer's disease	3	8	0.375
+Waist circumference adjusted for body mass index	100	441	0.226757369614512
+Low vWF levels	2	10	0.2
+Response to methotrexate in rheumatoid arthritis	1	2	0.5
+Electrocardiographic conduction measures	3	12	0.25
+Bone mineral accretion in asthma (oral corticosteroid dose interaction)	3	9	0.333333333333333
+Infantile hypertrophic pyloric stenosis	5	9	0.555555555555556
+Common carotid intima-media thickness in HIV infection	2	12	0.166666666666667
+Growth-regulated protein alpha levels	4	26	0.153846153846154
+Dietary macronutrient intake	5	10	0.5
+Breast size	10	54	0.185185185185185
+Asymmetrical dimethylarginine levels	2	22	0.0909090909090909
+Mild influenza (H1N1) infection	2	35	0.0571428571428571
+Acute lymphoblastic leukemia (B-cell precursor)	1	6	0.166666666666667
+Lung cancer	27	182	0.148351648351648
+Body mass index (ever vs never smoking interaction)	2	3	0.666666666666667
+Sum neutrophil eosinophil counts	25	148	0.168918918918919
+Left ventricle wall thickness	3	21	0.142857142857143
+Obesity-related traits	185	957	0.193312434691745
+Biomedical quantitative traits	1	8	0.125
+Urinary metabolite concentrations in chronic kidney disease	2	9	0.222222222222222
+Blood pressure measurement (high sodium intervention)	2	11	0.181818181818182
+Hepatocellular carcinoma in hepatitis B infection	2	4	0.5
+Exploratory eye movement dysfunction in schizophrenia (number of eye fixations)	3	19	0.157894736842105
+Inflammatory bowel disease	122	487	0.250513347022587
+Crohn's disease and psoriasis	1	4	0.25
+Response to paliperidone in schizophrenia (CGI-S score)	4	28	0.142857142857143
+Metabolite levels  (X-11787)	4	29	0.137931034482759
+Estrone/androstenedione ratio in resected early stage-receptor positive breast cancer	3	13	0.230769230769231
+Tumor necrosis factor beta levels	2	11	0.181818181818182
+Response to tamoxifen in breast cancer	1	1	1
+Anterior cruciate ligament rupture	1	3	0.333333333333333
+Alzheimer's disease	19	79	0.240506329113924
+Iris characteristics	1	7	0.142857142857143
+Lipoprotein-associated phospholipase A2 activity and mass	6	21	0.285714285714286
+Major coronary event in darapladib-treated cardiovascular disease (time to event)	1	2	0.5
+Response to bronchodilator in chronic obstructive pulmonary disease (change in FEV1)	8	57	0.140350877192982
+Axial length	3	22	0.136363636363636
+Migraine	31	146	0.212328767123288
+Nonsyndromic cleft lip with cleft palate	10	56	0.178571428571429
+Eating disorder in bipolar disorder	2	5	0.4
+Suicide ideation score in major depressive disorder	1	3	0.333333333333333
+Serum metabolite ratios in chronic kidney disease	86	259	0.332046332046332
+Apolipoprotein A-IV levels	1	4	0.25
+Plasma cystastin c levels in acute coronary syndrome	1	2	0.5
+Kidney stones	2	5	0.4
+Body mass index (joint analysis main effects and smoking interaction)	25	140	0.178571428571429
+Acute lymphoblastic leukemia in childhood (B cell precursor)	1	2	0.5
+Hippocampal sclerosis of aging	1	1	1
+Alcoholic chronic pancreatitis	20	137	0.145985401459854
+Multiple sclerosis (age of onset)	1	8	0.125
+Hepatitis B virus-related hepatocellular carcinoma	1	2	0.5
+Parental longevity (combined parental age at death)	5	51	0.0980392156862745
+Crohn's disease-related phenotypes	2	7	0.285714285714286
+Hair greying	1	8	0.125
+Type 2 diabetes	178	766	0.232375979112272
+TRAIL levels	4	58	0.0689655172413793
+Adverse response to chemotherapy (neutropenia/leucopenia) (paclitaxel + carboplatin)	1	7	0.142857142857143
+Lean body mass	1	8	0.125
+Heart rate response to beta blockers	1	2	0.5
+Local histogram emphysema pattern	4	25	0.16
+Body mass index  (smoking years interaction)	1	3	0.333333333333333
+Formal thought disorder in schizophrenia	1	5	0.2
+Verbal declarative memory	13	43	0.302325581395349
+Inflammatory bowel disease (early onset)	1	4	0.25
+Pulse pressure	32	159	0.20125786163522
+HIV-associated neurocognitive disorder (mild neurocognitive disorder or asymptomatic neurocognitive impairment)	2	4	0.5
+Capecitabine sensitivity	3	22	0.136363636363636
+Alcoholism (alcohol dependence factor score)	1	6	0.166666666666667
+Platelet-derived growth factor BB levels	2	38	0.0526315789473684
+Kawasaki disease	1	20	0.05
+Hip geometry	5	16	0.3125
+Sitting height ratio	10	44	0.227272727272727
+Dysphagia	3	19	0.157894736842105
+Beta-2 microglubulin plasma levels	3	7	0.428571428571429
+Facial morphology (factor 19)	2	32	0.0625
+Conduct disorder	2	12	0.166666666666667
+Response to cytadine analogues (cytosine arabinoside)	3	22	0.136363636363636
+HIV-1 susceptibility	4	25	0.16
+Narcolepsy with cataplexy	5	8	0.625
+Glycerophospholipid levels	11	38	0.289473684210526
+Response to cyclophosphamide in systemic lupus erythematosus with lupus nephritis	1	14	0.0714285714285714
+Progressive supranuclear palsy	2	11	0.181818181818182
+Scalp hair shape	3	9	0.333333333333333
+Esophageal adenocarcinoma	2	13	0.153846153846154
+Neurofibrillary tangles	6	22	0.272727272727273
+Prudent dietary pattern	3	42	0.0714285714285714
+Plasma lactate levels	4	4	1
+Fibroblast growth factor basic levels	2	28	0.0714285714285714
+Facial morphology (factor 5, width of mouth relative to central midface)	3	16	0.1875
+QT interval in Tripanosoma cruzi seropositivity	1	14	0.0714285714285714
+Total cholesterol levels in HDL	1	8	0.125
+Midgestational circulating levels of PBDEs (fetal genetic effect)	2	11	0.181818181818182
+Ossification of the posterior longitudinal ligament of the spine	2	8	0.25
+Low white blood cell count (conditioned on rs2814778)	2	16	0.125
+Posterior cortical atrophy and Alzheimer's disease	4	18	0.222222222222222
+Juvenile idiopathic arthritis (oligoarticular or rheumatoid factor-negative polyarticular)	5	31	0.161290322580645
+Educational attainment (college completion)	7	34	0.205882352941176
+Gut microbiome composition (summer)	12	35	0.342857142857143
+Response to abacavir-containing treatment in HIV-1 infection (virologic failure)	1	27	0.037037037037037
+Bone mineral density (spine) and age at menarche	1	9	0.111111111111111
+Perceived unattractiveness to mosquitoes	5	45	0.111111111111111
+Fat distribution (HIV)	3	17	0.176470588235294
+Telomere length	10	38	0.263157894736842
+Celiac disease	26	113	0.230088495575221
+Overall survival in osteosarcoma	2	9	0.222222222222222
+Methadone dose in opioid dependence	3	37	0.0810810810810811
+Blood pressure traits (multi-trait analysis)	5	30	0.166666666666667
+Immunoglobulin G index levels in multiple sclerosis	1	5	0.2
+Inattentive symptoms	4	15	0.266666666666667
+circulating leptin levels adjusted for BMI	3	9	0.333333333333333
+Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 1 peripheral neuropathy)	4	11	0.363636363636364
+Psychosis proneness (hypomanic personality scale)	1	6	0.166666666666667
+Hypertriglyceridemia	9	32	0.28125
+Alzheimer's disease (APOE e4 interaction)	1	5	0.2
+Height	162	855	0.189473684210526
+Low high density lipoprotein cholesterol levels	2	11	0.181818181818182
+Amyotrophic lateral sclerosis (sporadic)	15	99	0.151515151515152
+F-cell distribution	15	51	0.294117647058824
+Sjögren's syndrome	7	51	0.137254901960784
+Age-related diseases and mortality	3	14	0.214285714285714
+Extraversion	1	5	0.2
+Borderline personality disorder	2	24	0.0833333333333333
+Vertical cup-disc ratio	17	73	0.232876712328767
+Cutaneous psoriasis	3	10	0.3
+Glaucoma (primary angle closure)	10	22	0.454545454545455
+IgA nephropathy	12	63	0.19047619047619
+Response to hepatitis C treatment	3	19	0.157894736842105
+Nicotine dependence	3	21	0.142857142857143
+Pneumonia	3	59	0.0508474576271186
+Endometriosis	19	114	0.166666666666667
+Anxiety disorder	6	16	0.375
+Gait speed in old age	6	19	0.315789473684211
+Total cholesterol levels	30	99	0.303030303030303
+Clozapine-induced cytotoxicity	3	18	0.166666666666667
+Vaccenic acid (18:1n-7) levels	4	4	1
+Peak insulin response	2	10	0.2
+Gastric adenocarcinoma (histologically verified)	1	3	0.333333333333333
+Bone mineral density (hip)	6	41	0.146341463414634
+Sulfasalazine-induced agranulocytosis	1	30	0.0333333333333333
+Plasma t-tau levels	1	4	0.25
+Bipolar disorder (inflammation and infection response interaction)	2	5	0.4
+Hepatitis C induced liver cirrhosis	1	5	0.2
+Milk allergy (parent-of-origin effect)	1	2	0.5
+Gait variability	1	3	0.333333333333333
+Hematological and biochemical traits	6	29	0.206896551724138
+Sphingolipid levels	7	22	0.318181818181818
+Gut microbiota (beta diversity)	1	15	0.0666666666666667
+Systemic sclerosis	15	64	0.234375
+Residual cognition	1	9	0.111111111111111
+Stroke (ischemic)	4	10	0.4
+Mean forced vital capacity from 2 exams	2	2	1
+Periodontitis	1	6	0.166666666666667
+Myopia	15	55	0.272727272727273
+Obesity and osteoporosis	1	2	0.5
+Temperament (bipolar disorder)	2	13	0.153846153846154
+Immunoglobulin light chain (AL) amyloidosis (kidney involvement)	1	1	1
+Narcolepsy	6	17	0.352941176470588
+Eosinophil percentage of granulocytes	26	179	0.145251396648045
+Self-employment	1	2	0.5
+Fasting plasma glucose	6	47	0.127659574468085
+Recurrent major depressive disorder	2	23	0.0869565217391304
+Allergic disease (asthma, hay fever or eczema)	21	136	0.154411764705882
+Waist circumference adjusted for BMI (joint analysis main effects and physical activity interaction)	49	253	0.193675889328063
+Adverse response to lamotrigine and phenytoin	1	12	0.0833333333333333
+Adverse response to chemotherapy in breast cancer (alopecia)	1	3	0.333333333333333
+Fibrinogen	7	39	0.179487179487179
+Epilepsy	1	10	0.1
+Endometrial cancer	5	23	0.217391304347826
+Schizophrenia, schizoaffective disorder or bipolar disorder	1	5	0.2
+Illicit drug use	2	10	0.2
+Age-related hearing impairment (SNP x SNP interaction)	20	98	0.204081632653061
+Life satisfaction	7	28	0.25
+Nose size	1	23	0.0434782608695652
+Cutaneous nevi	1	5	0.2
+Abdominal aortic aneurysm	4	16	0.25
+Metabolite levels	21	104	0.201923076923077
+Eye color	2	19	0.105263157894737
+Lymphocyte percentage of white cells	15	140	0.107142857142857
+Antipsychotic drug-induced QTc interval prolongation	1	3	0.333333333333333
+Acenocoumarol maintenance dosage	1	4	0.25
+Palmitic acid (16:0) levels	5	12	0.416666666666667
+Eosinophilic esophagitis (pediatric)	3	14	0.214285714285714
+Smooth-surface caries	11	42	0.261904761904762
+Crohn's disease and sarcoidosis (combined)	1	1	1
+Cancer	33	170	0.194117647058824
+Pit-and-Fissure caries	4	22	0.181818181818182
+Glucagon levels in response to oral glucose tolerance test (fasting)	1	4	0.25
+Carotid plaque burden (smoking interaction)	1	4	0.25
+Mortality in heart failure	2	13	0.153846153846154
+Mean corpuscular hemoglobin	60	352	0.170454545454545
+Ulcerative colitis	98	386	0.253886010362694
+Sense of smell	6	22	0.272727272727273
+Deep ovarian and/or rectovaginal disease with dense adhesions	1	10	0.1
+Total ventricular volume	1	8	0.125
+Alcohol and nicotine co-dependence	1	10	0.1
+Immune reponse to smallpox (secreted IL-10)	2	6	0.333333333333333
+Daytime sleep phenotypes	7	92	0.0760869565217391
+TB-LM or TBLH-BMD (pleiotropy)	5	12	0.416666666666667
+Incremental insulin	2	3	0.666666666666667
+Economic and political preferences (feminism/equality)	1	12	0.0833333333333333
+Coronary heart disease (SNP X SNP interaction)	2	10	0.2
+Kashin-Beck disease	1	1	1
+Waist circumference	15	138	0.108695652173913
+End-stage coagulation	3	23	0.130434782608696
+Visceral adipose tissue/subcutaneous adipose tissue ratio	13	49	0.26530612244898
+Renal function-related traits (eGRFcrea)	4	10	0.4
+Prion diseases	3	11	0.272727272727273
+Morbidity-free survival	1	5	0.2
+Small vessel stroke	3	9	0.333333333333333
+Rheumatoid arthritis (ACPA-negative)	1	8	0.125
+Urinary uromodulin levels	2	5	0.4
+Aortic valve stenosis	1	5	0.2
+Milk allergy	1	5	0.2
+Metabolite levels (MHPG)	2	20	0.1
+Aggressive periodontitis (sex interaction)	1	1	1
+Plasma estrone conjugates levels in resected early stage estrogen-receptor positive breast cancer	1	2	0.5
+Antipsychotic drug-induced QTc interval change in schizophrenia	7	34	0.205882352941176
+Waist-to-hip ratio adjusted for BMI (joint analysis main effects and smoking interaction)	6	45	0.133333333333333
+Bipolar disorder or major depressive disorder (combined)	1	9	0.111111111111111
+Serum uric acid levels	5	23	0.217391304347826
+Social autistic-like traits	1	6	0.166666666666667
+Estradiol plasma levels (breast cancer)	8	18	0.444444444444444
+Plasma omega-6 polyunsaturated fatty acid levels (gamma-linolenic acid)	3	22	0.136363636363636
+Antibody level in response to infection	2	7	0.285714285714286
+Binge eating behaviour in bipolar disorder	1	6	0.166666666666667
+Survival in pancreatic cancer	4	61	0.0655737704918033
+White matter hyperintensities in ischemic stroke	1	8	0.125
+Waist-to-hip ratio adjusted for BMI in non-smokers	6	46	0.130434782608696
+Diffuse cutaneous systemic sclerosis	3	7	0.428571428571429
+Epstein-Barr virus copy number in lymphoblastoid cell lines	8	42	0.19047619047619
+Subjective response to lithium treatment	2	4	0.5
+Breastfeeding duration	3	9	0.333333333333333
+Corneal astigmatism	4	30	0.133333333333333
+Ischemic stroke	3	29	0.103448275862069
+Facial morphology (factor 14, intercanthal width)	3	21	0.142857142857143
+Neuroticism	55	326	0.168711656441718
+GIP levels in response to oral glucose tolerance test (120 minutes)	3	12	0.25
+RR interval (tricyclic/tetracyclic antidepressant use interaction)	2	3	0.666666666666667
+Waist-to-hip ratio adjusted for BMI (adjusted for smoking behaviour)	21	116	0.181034482758621
+Activated partial thromboplastin time	2	12	0.166666666666667
+Amino acid levels	2	9	0.222222222222222
+Behcet's disease	4	19	0.210526315789474
+Nicotine use	1	6	0.166666666666667
+Response to acetaminophen (hepatotoxicity)	1	5	0.2
+Survival in rectal cancer	3	18	0.166666666666667
+Periodontal microbiota	3	16	0.1875
+Chronic obstructive pulmonary disease (severe)	1	6	0.166666666666667
+Periodontitis (PAL4Q3)	4	18	0.222222222222222
+Response to clopidogrel therapy	1	1	1
+Incident coronary heart disease	1	2	0.5
+QRS interval (sulfonylurea treatment interaction)	1	18	0.0555555555555556
+Neonatal lupus	1	5	0.2
+Midgestational circulating levels of PCBs (fetal genetic effect)	1	11	0.0909090909090909
+Caffeine metabolism (plasma 1,3,7-trimethylxanthine (caffeine) level)	1	11	0.0909090909090909
+Coffee consumption (cups per day)	3	9	0.333333333333333
+Matrix metalloproteinase levels	1	4	0.25
+Venous thromboembolism (SNP x SNP interaction)	14	74	0.189189189189189
+Waist circumference adjusted for BMI (adjusted for smoking behaviour)	33	140	0.235714285714286
+Measles	3	32	0.09375
+Idiopathic membranous nephropathy	7	21	0.333333333333333
+Interleukin-10 levels	3	34	0.0882352941176471
+Bipolar disorder and eating disorder	2	10	0.2
+Epstein Barr virus nuclear antigen 1 IgG levels or multiple sclerosis	1	4	0.25
+Vitamin D levels	3	39	0.0769230769230769
+Visceral adipose tissue adjusted for BMI	16	51	0.313725490196078
+Lymphoma	5	13	0.384615384615385
+Intelligence	23	93	0.247311827956989
+Metabolite levels (HVA-5-HIAA Factor score)	1	12	0.0833333333333333
+Exploratory eye movement dysfunction in schizophrenia (total eye scanning length)	2	8	0.25
+Monocyte chemoattractant protein-3 levels	4	14	0.285714285714286
+Hematocrit	34	154	0.220779220779221
+Ulcerative colitis or Crohn's disease	1	2	0.5
+Eosinophil counts	32	208	0.153846153846154
+Docetaxel-induced peripheral neuropathy in metastatic castrate-resistant prostate cancer	4	12	0.333333333333333
+DNA methylation (parent-of-origin)	1	7	0.142857142857143
+Sleep duration (oversleepers vs undersleepers)	1	2	0.5
+Two-hour glucose challenge	1	5	0.2
+Body mass index in physically inactive individuals	11	45	0.244444444444444
+Morning vs. evening chronotype	14	102	0.137254901960784
+Body mass index (adult)	1	32	0.03125
+Macrophage Migration Inhibitory Factor levels	1	26	0.0384615384615385
+Lung function (forced expiratory flow during mid-portion (25% and 75%) of forced vital capacity)	4	12	0.333333333333333
+Caffeine consumption	1	10	0.1
+Blood protein levels	167	590	0.283050847457627
+Plasma kynurenine levels in major depressive disorder	2	7	0.285714285714286
+Depressive episodes in bipolar disorder	1	7	0.142857142857143
+Adverse response to chemotherapy (neutropenia/leucopenia) (all anthracycline-based drugs)	1	6	0.166666666666667
+Inhibitory control	2	9	0.222222222222222
+Restless legs syndrome	2	32	0.0625
+Depression and alcohol dependence	2	8	0.25
+Alcohol dependence symptom count	5	23	0.217391304347826
+Urinary albumin-to-creatinine ratio in non-diabetics	4	10	0.4
+Major depressive disorder (stressful life events interaction)	1	2	0.5
+Laryngeal squamous cell carcinoma	3	6	0.5
+Oral cavity cancer	1	9	0.111111111111111
+Renal sinus fat	2	8	0.25
+Sclerosing cholangitis and ulcerative colitis (combined)	1	2	0.5
+Polychlorinated biphenyl levels	6	57	0.105263157894737
+Eosinophilic esophagitis	9	23	0.391304347826087
+Tragus size	1	1	1
+Heart rate variability traits	1	4	0.25
+Waist circumference adjusted for BMI (joint analysis main effects and smoking interaction)	27	135	0.2
+Cleft lip	1	2	0.5
+QT interval	36	218	0.165137614678899
+Iron status biomarkers (total iron binding capacity)	7	34	0.205882352941176
+Schizophrenia (inflammation and infection response interaction)	1	4	0.25
+Graves' disease	13	35	0.371428571428571
+Idiopathic dilated cardiomyopathy	6	42	0.142857142857143
+Estrogen receptor status in HER2 negative breast cancer	1	1	1
+Adult asthma	2	24	0.0833333333333333
+Clinically amyopathic dermatomyositis	1	1	1
+Immune reponse to smallpox (secreted TNF-alpha)	1	6	0.166666666666667
+Dementia and core Alzheimer's disease neuropathologic changes	4	27	0.148148148148148
+Facial morphology (factor 12, vertical position of sublabial sulcus relative to central midface)	1	16	0.0625
+Inguinal hernia	2	4	0.5
+Spontaneous preterm birth (preterm delivery)	1	2	0.5
+C-reactive protein (red blood cell fatty acid level interaction)	1	2	0.5
+Anti-saccade response	3	39	0.0769230769230769
+Insulin disposition index	1	5	0.2
+antipsychotic drug dosage in schizophrenia or schizoaffective disorder	3	21	0.142857142857143
+Ovarian disease with few adhesions	1	4	0.25
+Diabetic retinopathy	3	28	0.107142857142857
+Cerebral amyloid deposition (PET imaging)	1	17	0.0588235294117647
+Trans fatty acid levels	19	131	0.145038167938931
+Alzheimer's disease (age of onset)	2	13	0.153846153846154
+Political ideology	4	19	0.210526315789474
+Response to TNF-alpha inhibitors in rheumatoid arthritis	2	8	0.25
+Corneal curvature	6	18	0.333333333333333
+Intelligence (childhood)	1	6	0.166666666666667
+Delta-5 desaturase activity response to n3-polyunsaturated fat supplement	4	6	0.666666666666667
+Lung cancer in ever smokers	12	110	0.109090909090909
+Pediatric bone mineral content (spine)	4	12	0.333333333333333
+Left atrial antero-posterior diameter	5	16	0.3125
+Hepatocellular carcinoma	3	8	0.375
+Mosaic loss of chromosome Y	1	1	1
+Cisplatin-induced ototoxicity	3	20	0.15
+Clostridium difficile infection in multiple myeloma	19	54	0.351851851851852
+Age-related macular degeneration (geographic atrophy)	2	9	0.222222222222222
+Neurocognitive impairment in HIV-1 infection (dichotomous)	1	9	0.111111111111111
+QT interval (drug interaction)	3	17	0.176470588235294
+Breast cancer (prognosis)	3	5	0.6
+Blood trace element (Zn levels)	2	11	0.181818181818182
+Phospholipid levels in large HDL	1	12	0.0833333333333333
+Urgency urinary incontinence	1	6	0.166666666666667
+Economic and political preferences (immigration/crime)	2	15	0.133333333333333
+Colorectal cancer (SNP x SNP interaction)	2	14	0.142857142857143
+Lupus nephritis in systemic lupus erythematosus	2	17	0.117647058823529
+Response to zileuton treatment in asthma (FEV1 change interaction)	5	21	0.238095238095238
+Drug-induced Stevens-Johnson syndrome or toxic epidermal necrolysis (SJS/TEN)	1	10	0.1
+&beta;2-Glycoprotein I (&beta;2-GPI) plasma levels	3	9	0.333333333333333
+Urinary albumin-to-creatinine ratio	2	15	0.133333333333333
+JT interval (sulfonylurea treatment interaction)	5	14	0.357142857142857
+Spherical equivalent (joint analysis main effects and education interaction)	10	48	0.208333333333333
+Barrett's esophagus	3	17	0.176470588235294
+Forced expiratory volume in 1 second (environmental tobacco smoke interaction)	1	3	0.333333333333333
+Adverse response to chemotherapy (neutropenia/leucopenia) (all antimicrotubule drugs)	2	12	0.166666666666667
+Adverse response to chemotherapy (neutropenia/leucopenia) (carboplatin)	3	9	0.333333333333333
+Male infertility	2	5	0.4
+Energy expenditure (24h)	3	9	0.333333333333333
+Nose morphology	1	8	0.125
+Response to paliperidone in schizophrenia (positive Marder score)	6	60	0.1
+Testicular germ cell cancer	1	6	0.166666666666667
+Orofacial clefts	13	82	0.158536585365854
+Major mood disorders	1	1	1
+Alzheimer disease and age of onset	12	203	0.0591133004926108
+Glycemic traits	2	11	0.181818181818182
+Response to serotonin reuptake inhibitors in major depressive disorder	3	20	0.15
+Insulin levels adjusted for BMI	2	4	0.5
+Calcium levels	18	42	0.428571428571429
+IgG glycosylation	135	699	0.1931330472103
+Response to radiotherapy in prostate cancer (overall toxicity)	1	16	0.0625
+Red blood cell count	48	240	0.2
+HIV-1 control	5	50	0.1
+S-phenylmercapturic acid levels in smokers	1	2	0.5
+C-peptide levels in type I diabetes	1	4	0.25
+Neovascular age-related macular degeneration	1	4	0.25
+Leishmaniasis (visceral)	1	1	1
+Corrected insulin response adjusted for insulin sensitivity index	2	6	0.333333333333333
+Huntington's disease progression	2	20	0.1
+Temporomandibular joint disorder	1	6	0.166666666666667
+Progranulin levels	2	4	0.5
+Coenzyme Q10 levels	2	25	0.08
+Childhood and early adolescence aggressive behavior	1	6	0.166666666666667
+Sleep duration	4	34	0.117647058823529
+Inflammatory skin disease	15	88	0.170454545454545
+Small cell lung carcinoma	4	50	0.08
+Cerebrospinal fluid AB1-42 levels	3	35	0.0857142857142857
+Urinary tract infection frequency	7	61	0.114754098360656
+Response to gemcitabine in pancreatic cancer	2	5	0.4
+Gut microbiota (functional units)	6	56	0.107142857142857
+Frontotemporal dementia	15	35	0.428571428571429
+Aging (time to event)	3	8	0.375
+Pediatric autoimmune diseases	9	46	0.195652173913043
+LDL cholesterol	44	238	0.184873949579832
+Schizophrenia	172	1130	0.152212389380531
+Atrioventricular conduction	1	5	0.2
+Red cell distribution width	30	206	0.145631067961165
+Electroencephalogram traits	1	27	0.037037037037037
+Multiple myeloma	8	40	0.2
+Osteoarthritis of the hip (with total joint replacement)	2	6	0.333333333333333
+Tumor biomarkers	3	11	0.272727272727273
+Chronic lymphocytic leukemia	19	126	0.150793650793651
+Risky sexual behaviors in alcohol dependence	1	4	0.25
+Chronic kidney disease	3	46	0.0652173913043478
+Response to fenofibrate	1	10	0.1
+Cutaneous malignant melanoma	1	16	0.0625
+Response to inhaled corticosteroid treatment in asthma (change in FEV1)	4	21	0.19047619047619
+Hip minimal joint space width	2	9	0.222222222222222
+Serum alkaline phosphatase levels	1	4	0.25
+Pain	3	4	0.75
+Blood metabolite ratios	13	54	0.240740740740741
+Myocardial infarction in hypertension (calcium channel blocker interaction)	1	1	1
+Skin pigmentation	9	47	0.191489361702128
+Plasma omega-3 polyunsaturated fatty acid levels (docosahexaenoic acid)	2	17	0.117647058823529
+3-hydroxypropylmercapturic acid levels in smokers	17	246	0.0691056910569106
+Cancer (pleiotropy)	4	26	0.153846153846154
+Gastric cancer	3	11	0.272727272727273
+Bacteremia	2	12	0.166666666666667
+Response to antidepressants	3	9	0.333333333333333
+Methotrexate phramacokinetics (acute lymphoblastic leukemia)	3	21	0.142857142857143
+Gaucher disease severity	1	3	0.333333333333333
+Odorant perception (isobutyraldehyde)	1	1	1
+Coronary heart disease	24	108	0.222222222222222
+Chronic mucus hypersecretion	5	5	1
+Attention deficit hyperactivity disorder (hyperactivity-impulsivity symptoms)	4	25	0.16
+Non-albumin protein levels	1	5	0.2
+IgG galactosylation phenotypes (multivariate analysis)	1	9	0.111111111111111
+Serum metabolite levels	5	19	0.263157894736842
+C-reactive protein and white blood cell count	2	9	0.222222222222222
+Rubella	1	38	0.0263157894736842
+Very long-chain saturated fatty acid levels (fatty acid 22:0)	2	11	0.181818181818182
+Tetralogy of Fallot	3	6	0.5
+Exfoliation glaucoma or exfoliation syndrome	2	2	1
+Clozapine-induced agranulocytosis	4	28	0.142857142857143
+Depressive symptoms (MTAG)	17	64	0.265625
+Anthropometric traits	2	13	0.153846153846154
+Age at smoking initiation in chronic obstructive pulmonary disease	5	21	0.238095238095238
+Glucocorticoid-induced osteonecrosis	1	10	0.1
+Problematic alcohol use in trauma-exposed individuals	1	5	0.2
+Plasma omega-3 polyunsaturated fatty acid level (eicosapentaenoic acid)	3	24	0.125
+C-reactive protein levels or LDL-cholesterol levels (pleiotropy)	5	21	0.238095238095238
+Amyotrophic lateral sclerosis in C9orf72 mutation negative individuals	1	4	0.25
+Lung function (forced vital capacity)	1	9	0.111111111111111
+Multiple myeloma and monoclonal gammopathy	2	9	0.222222222222222
+Platelet thrombus formation	1	6	0.166666666666667
+Primary sclerosing cholangitis	11	32	0.34375
+Optic nerve measurement (disc area)	1	7	0.142857142857143
+Osteoarthritis	2	8	0.25
+Systemic juvenile idiopathic arthritis	5	25	0.2
+Interleukin-9 levels	3	25	0.12
+Interleukin-8 levels	2	18	0.111111111111111
+Adverse response to chemotherapy (neutropenia/leucopenia) (docetaxel)	3	7	0.428571428571429
+Response to chemotherapy in breast cancer hypertensive cases (cumulative dose) (bevacizumab)	2	13	0.153846153846154
+Response to antipsychotic treatment	14	57	0.245614035087719
+Gout	13	66	0.196969696969697
+Plasma omega-3 polyunsaturated fatty acid levels (docosapentaenoic acid)	3	20	0.15
+Waist circumference and related phenotypes	1	4	0.25
+Parkinson's disease (motor and cognition)	1	5	0.2
+Cannabis use	1	6	0.166666666666667
+Coronary artery calcified atherosclerotic plaque (130 HU threshold) in type 2 diabetes	7	84	0.0833333333333333
+Metabolite levels (lipoprotein measures)	6	31	0.193548387096774
+Gastritis	1	7	0.142857142857143
+Tonsillectomy	23	234	0.0982905982905983
+Basophil percentage of granulocytes	7	58	0.120689655172414
+Clozapine-induced agranulocytosis/granulocytopenia in treatment-resistant schizophrenia	1	12	0.0833333333333333
+Warfarin maintenance dose	6	29	0.206896551724138
+Neurocognitive impairment in HIV-1 infection (continuous)	1	6	0.166666666666667
+Epithelial ovarian cancer	5	48	0.104166666666667
+Serum prostate-specific antigen levels	2	7	0.285714285714286
+Adverse response to chemotherapy in breast cancer (alopecia) (cyclophosphamide+doxorubicin+/-5FU)	1	8	0.125
+Chronic obstructive pulmonary disease	10	53	0.188679245283019
+Migraine without aura	4	41	0.0975609756097561
+Non-word repetition	1	5	0.2
+Corneal structure	5	31	0.161290322580645
+Cerebrospinal fluid t-tau levels	2	7	0.285714285714286
+Personality traits in bipolar disorder	4	7	0.571428571428571
+Mononucleosis	3	44	0.0681818181818182
+Uveal melanoma	1	2	0.5
+Influenza A (H1N1) infection	2	14	0.142857142857143
+Sunburns	1	4	0.25
+Stroke	2	37	0.0540540540540541
+Spontaneous dizygotic twinning	1	3	0.333333333333333
+ADAMTS13 activity	1	4	0.25
+Iris color (b* coordinate)	1	7	0.142857142857143
+Area under the curve of insulin levels	1	2	0.5
+Follicule stimulating hormone	1	6	0.166666666666667
+White blood cell types	2	20	0.1
+Freckling	1	4	0.25
+Hepatitis B	7	47	0.148936170212766
+Serum alpha1-antitrypsin levels	1	3	0.333333333333333
+Cardiac Troponin-T levels	5	18	0.277777777777778
+Allergic rhinitis in non-asthmatics	1	7	0.142857142857143
+Tanning	2	19	0.105263157894737
+Night sleep phenotypes	14	193	0.0725388601036269
+Age-related nuclear cataracts	1	15	0.0666666666666667
+Bone erosion in rheumatoid arthritis	1	2	0.5
+Neuroticism (MTAG)	7	37	0.189189189189189
+Headache	4	28	0.142857142857143
+Interleukin-18 levels	2	46	0.0434782608695652
+Suicide attempts in depression or bipolar disorder	2	3	0.666666666666667
+Coronary artery disease	165	747	0.220883534136546
+Multiple sclerosis (OCB status)	5	12	0.416666666666667
+PCA3 expression level	3	4	0.75
+Alzheimer's disease (cognitive decline)	10	44	0.227272727272727
+Lobe attachment (rater-scored or self-reported)	28	177	0.15819209039548
+Hypertension (SNP x SNP interaction)	4	18	0.222222222222222
+Lung function (FVC)	4	29	0.137931034482759
+Advanced glycation end-product levels	3	7	0.428571428571429
+Gut microbiome composition (summer and winter)	1	9	0.111111111111111
+Soluble interleukin-2 receptor subunit alpha	1	7	0.142857142857143
+Platelet count	67	383	0.174934725848564
+Protein C levels	3	8	0.375
+Uric acid levels	11	42	0.261904761904762
+NT-proBNP levels in acute coronary syndrome	1	3	0.333333333333333
+Parasitemia in Tripanosoma cruzi seropositivity	2	24	0.0833333333333333
+Glioma (high-grade)	3	6	0.5
+Delta-6 desaturase activity	4	9	0.444444444444444
+Knee osteoarthritis	4	15	0.266666666666667
+Cognitive test performance	5	14	0.357142857142857
+Gut microbiome composition (winter)	4	33	0.121212121212121
+Non-substance related behavioral disinhibition	1	4	0.25
+Facial emotion recognition (angry faces)	1	4	0.25
+Monobrow thickness	2	7	0.285714285714286
+EGFR mutation-positive lung adenocarcinoma	1	6	0.166666666666667
+Overweight status	1	3	0.333333333333333
+Colorectal cancer	66	311	0.212218649517685
+Glucose homeostasis traits	15	74	0.202702702702703
+Sex hormone-binding globulin levels	10	38	0.263157894736842
+Survival in microsatellite instability low/stable colorectal cancer	4	12	0.333333333333333
+Immunoglobulin A	2	12	0.166666666666667
+Liver fibrosis severity in HIV/hepatitis C co-infection	1	7	0.142857142857143
+Late-onset Alzheimer's disease	3	123	0.024390243902439
+Acute insulin response	3	10	0.3
+Electrocardiographic traits	5	32	0.15625
+Alopecia areata	10	44	0.227272727272727
+Monokine induced by gamma interferon levels	3	35	0.0857142857142857
+Pancreatic cancer	17	101	0.168316831683168
+Pediatric areal bone mineral density (radius)	3	16	0.1875
+Tooth agenesis (mandibular second premolars)	1	1	1
+Digestive system disease (Barrett's esophagus and esophageal adenocarcinoma combined)	1	10	0.1
+Total body bone mineral density (age 0-15)	2	7	0.285714285714286
+Information processing speed	7	31	0.225806451612903
+Schizophrenia or bipolar disorder	3	12	0.25
+C-reactive protein levels or triglyceride levels (pleiotropy)	4	21	0.19047619047619
+Pediatric bone mineral content (femoral neck)	1	13	0.0769230769230769
+Airway responsiveness in chronic obstructive pulmonary disease	2	26	0.0769230769230769
+Erythrocyte cadmium concentration in never smokers	2	7	0.285714285714286
+Erectile dysfunction and prostate cancer treatment	3	23	0.130434782608696
+Left ventricular obstructive tract defect (inherited effect)	2	15	0.133333333333333
+Type 1 diabetes and autoimmune thyroid diseases	5	11	0.454545454545455
+Serous borderline ovarian cancer	2	10	0.2
+Fasting blood glucose	11	50	0.22
+Myopia (pathological)	19	82	0.231707317073171
+Response to Vitamin E supplementation	2	8	0.25
+Fibrinogen levels	19	112	0.169642857142857
+High light scatter reticulocyte percentage of red cells	35	194	0.180412371134021
+Angiotensin-converting enzyme inhibitor intolerance	3	33	0.0909090909090909
+Hemoglobin concentration	22	132	0.166666666666667
+Carotid atherosclerosis in HIV infection	2	7	0.285714285714286
+Mosquito bite size	11	147	0.0748299319727891
+Blood metabolite levels	52	249	0.208835341365462
+Breast cancer	190	1074	0.176908752327747
+Periodontitis (DPAL)	3	15	0.2
+Autism	17	53	0.320754716981132
+Suicide	1	3	0.333333333333333
+Phospholipid levels (plasma)	7	25	0.28
+Pursuit maintenance gain in psychotic disorders	1	11	0.0909090909090909
+Response to methylphenidate treatment in attention-deficit/hyperactivity disorder (blood pressure)	1	7	0.142857142857143
+Coronary artery calcification	10	56	0.178571428571429
+Adiponectin levels in pregnancy	2	3	0.666666666666667
+Cerebral amyloid deposition positivity (PET imaging)	1	1	1
+Liver fibrosis in pediatric non-alcoholic fatty acid liver disease	1	5	0.2
+Creutzfeldt-Jakob disease (sporadic)	1	2	0.5
+Pharmacokinetics of antidepressant drugs in severe mental disorder (concentration dose ratio)	1	1	1
+Conotruncal heart defects (maternal effects)	3	22	0.136363636363636
+Chronic hepatitis B infection	10	27	0.37037037037037
+Giant cell arteritis	1	5	0.2
+Coronary artery calcified atherosclerotic plaque score in type 2 diabetes	6	53	0.113207547169811
+Disturbances of the gamma-frequency band of electroencephalography measures in schizophrenia	1	3	0.333333333333333
+Systolic blood pressure response to hydrochlorothiazide in hypertension	1	10	0.1
+Mumps	6	54	0.111111111111111
+Select biomarker traits	4	21	0.19047619047619
+3-hydroxy-1-methylpropylmercapturic acid levels in smokers	27	239	0.112970711297071
+Systemic lupus erythematosus and Systemic sclerosis	3	20	0.15
+Atrial fibrillation	12	90	0.133333333333333
+Congenital left-sided heart lesions	1	5	0.2
+Anorexia nervosa	7	31	0.225806451612903
+Dementia with Lewy bodies	1	4	0.25
+Psychosis (atypical)	5	10	0.5
+Cardiac hypertrophy	2	19	0.105263157894737
+Insomnia	2	34	0.0588235294117647
+Psychosis proneness (perceptual aberration scale)	1	3	0.333333333333333
+Entorhinal cortical thickness (Alzheimer's disease interaction)	1	1	1
+Ankle-brachial index	1	2	0.5
+Self-reported allergy	7	35	0.2
+Total bilirubin levels in HIV-1 infection	1	11	0.0909090909090909
+Early childhood aggressive behavior	1	3	0.333333333333333
+Amyotrophic lateral sclerosis in C9orf72 mutation positive individuals	1	6	0.166666666666667
+Bitter taste perception	1	3	0.333333333333333
+Hepatitis	3	9	0.333333333333333
+Ideal cardiovascular health (clinical and behavioural)	1	1	1
+Coronary artery aneurysm in Kawasaki disease	4	22	0.181818181818182
+Iron status biomarkers	10	53	0.188679245283019
+Beard thickness	2	8	0.25
+Nonalcoholic fatty liver disease	2	15	0.133333333333333
+Glomerular filtration rate (creatinine)	22	119	0.184873949579832
+Testosterone levels	1	7	0.142857142857143
+Mean arterial pressure (alcohol consumption interaction)	2	9	0.222222222222222
+Brain connectivity	2	12	0.166666666666667
+Weight	4	34	0.117647058823529
+Disc degeneration (lumbar)	4	37	0.108108108108108
+Fractures (vertebral)	1	3	0.333333333333333
+Nucleus accumbens volume in trauma-exposed individuals	1	4	0.25
+Duloxetine response in major depressive disorder (% change in symptom score)	2	2	1
+Insulin-like growth factors	1	8	0.125
+Heart rate response to beta blockers (atenolol add-on therapy)	7	33	0.212121212121212
+Aggressiveness in attention deficit hyperactivity disorder	1	32	0.03125
+Chagas cardiomyopathy in Tripanosoma cruzi seropositivity	1	18	0.0555555555555556
+Bipolar disorder or attention deficit hyperactivity disorder	2	15	0.133333333333333
+Response to diuretic therapy	1	3	0.333333333333333
+Adverse response to chemotherapy (neutropenia/leucopenia) (etoposide)	1	4	0.25
+Vitamin B levels in ischemic stroke	1	8	0.125
+Sporadic pituitary adenoma	1	4	0.25
+Pharmacokinetics of antipsychotic drugs in severe mental disorder (concentration drug ratio)	3	3	1
+Nephrotic syndrome (acquired)	2	2	1
+Stem cell growth factor beta levels	1	53	0.0188679245283019
+Thrombomodulin levels in ischemic stroke	2	7	0.285714285714286
+Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia (combined)	6	74	0.0810810810810811
+Interleukin-12p70 levels	4	36	0.111111111111111
+Interstitial lung disease	4	18	0.222222222222222
+Alcoholism (heaviness of drinking)	2	8	0.25
+Chronic obstructive pulmonary disease-related biomarkers	11	34	0.323529411764706
+Lifetime average cigarettes per day in chronic obstructive pulmonary disease	3	11	0.272727272727273
+Response to thiopurine in inflammatory bowel disease (leukopenia)	1	2	0.5
+Helping behaviour (self reported)	2	6	0.333333333333333
+Severe gingival inflammation	1	5	0.2
+PR interval in Tripanosoma cruzi seropositivity	15	102	0.147058823529412
+Positive affect	7	30	0.233333333333333
+Fear of medical pain (dental)	3	5	0.6
+Number of children	1	8	0.125
+Conotruncal heart defects	3	11	0.272727272727273
+Systolic blood pressure in sickle cell anemia	2	10	0.2
+Response to paliperidone in schizophrenia (PANSS score)	4	61	0.0655737704918033
+Esophageal squamous cell carcinoma	3	10	0.3
+Diastolic blood pressure response to hydrochlorothiazide in hypertension	1	8	0.125
+Electrodermal activity	1	13	0.0769230769230769
+Type 2 diabetes nephropathy	1	6	0.166666666666667
+Loneliness	4	22	0.181818181818182
+Gallbladder cancer	2	7	0.285714285714286
+Neuritic plaques or neurofibrillary tangles (pleiotropy)	1	4	0.25
+Sarcoidosis	3	12	0.25
+Mitochondrial DNA levels	9	21	0.428571428571429
+Drug-induced liver injury (flucloxacillin)	1	6	0.166666666666667
+Urate levels in lean individuals	7	36	0.194444444444444
+Breast cancer (estrogen-receptor negative)	17	73	0.232876712328767
+Suicidal ideation in depression or bipolar disorder	1	1	1
+Blood trace element (Se levels)	2	10	0.2
+Infant length	4	15	0.266666666666667
+Macrophage inflammatory protein 1a levels	1	22	0.0454545454545455
+Duodenal ulcer	1	2	0.5
+Modified Stumvoll Insulin Sensitivity Index (BMI interaction)	1	12	0.0833333333333333
+Menopause (age at onset)	33	95	0.347368421052632
+Initial pursuit acceleration in psychotic disorders	5	22	0.227272727272727
+Type 2 diabetes and other traits	3	6	0.5
+Response to statin therapy	9	38	0.236842105263158
+Renal overload gout	2	5	0.4
+Response to platinum-based chemotherapy (cisplatin)	5	21	0.238095238095238
+Corticobasal degeneration	1	8	0.125
+Crohn's disease	119	477	0.249475890985325
+Systemic sclerosis (anti-centromere-positive)	3	5	0.6
+Urate levels	15	79	0.189873417721519
+Prostate-specific antigen levels	17	114	0.149122807017544
+Plasma omega-6 polyunsaturated fatty acid levels (dihomo-gamma-linolenic acid)	5	20	0.25
+Objective response to lithium treatment	1	4	0.25
+Cerebrospinal fluid biomarker levels	12	65	0.184615384615385
+Gut microbiota (bacterial taxa)	16	72	0.222222222222222
+Attention function in attention deficit hyperactive disorder	7	24	0.291666666666667
+Response to selective serotonin reuptake inhibitors and depression	1	5	0.2
+Brain volume in infants (white matter)	1	6	0.166666666666667
+Partial epilepsies	2	6	0.333333333333333
+Response to irinotecan and platinum-based chemotherapy in non-small-cell lung cancer	1	7	0.142857142857143
+Atopic march	1	7	0.142857142857143
+Bone mineral density (wrist)	1	1	1
+Anticoagulant levels	2	8	0.25
+Iron status biomarkers (ferritin levels)	2	16	0.125
+Response to haloperidol in psychosis	1	2	0.5
+Iris color (L* coordinate)	1	13	0.0769230769230769
+Hyperactive-impulsive symptoms	2	14	0.142857142857143
+Adiposity	3	8	0.375
+Stroke (pediatric)	1	4	0.25
+AIDS	1	7	0.142857142857143
+Blood pressure (smoking interaction)	9	37	0.243243243243243
+Quantitative traits	6	33	0.181818181818182
+Lewy body disease	10	31	0.32258064516129
+Irritable bowel syndrome	3	4	0.75
+Insulin levels in response to oral glucose tolerance test (30 minutes)	2	3	0.666666666666667
+Sleep-related phenotypes	2	5	0.4
+Systemic lupus erythematosus or rheumatoid arthritis	4	9	0.444444444444444
+Cerebral amyloid angiopathy	1	6	0.166666666666667
+Cleft palate	1	7	0.142857142857143
+Response to antipsychotic therapy (extrapyramidal side effects)	4	18	0.222222222222222
+Pulmonary function decline	11	39	0.282051282051282
+Adverse response to chemotherapy (neutropenia/leucopenia) (paclitaxel)	3	8	0.375
+Serum albumin level	8	16	0.5
+Follicular lymphoma	3	14	0.214285714285714
+QT interval (ambient particulate matter interaction)	2	6	0.333333333333333
+Limited cutaneous systemic scleroderma	4	18	0.222222222222222
+Adiponectin levels	13	63	0.206349206349206
+Granulocyte percentage of myeloid white cells	33	213	0.154929577464789
+Non-cardia gastric cancer	3	8	0.375
+Adverse response to chemotherapy in breast cancer (alopecia) (paclitaxel)	3	5	0.6
+Macrophage inflammatory protein 1b levels	8	104	0.0769230769230769
+QT interval (sulfonylurea treatment interaction)	2	12	0.166666666666667
+Primary biliary cirrhosis	13	69	0.188405797101449
+Eye morphology	1	5	0.2
+Cotinine glucuronidation	2	14	0.142857142857143
+White blood cell count (basophil)	18	81	0.222222222222222
+Economic and political preferences (fairness)	1	7	0.142857142857143
+Amyotrophic lateral sclerosis (age of onset)	2	13	0.153846153846154
+Immunoglobulin light chain (AL) amyloidosis (heart and kidney involvement)	1	1	1
+P wave terminal force	1	12	0.0833333333333333
+Non-response to selective serotonin reuptake inhibitors and depression	1	5	0.2
+Immune response to anthrax vaccine	1	8	0.125
+High light scatter reticulocyte count	38	198	0.191919191919192
+Coronary artery disease or large artery stroke	3	17	0.176470588235294
+QRS duration	19	128	0.1484375
+Paclitaxel-induced neuropathy	1	10	0.1
+Pneumococcal bacteremia	1	9	0.111111111111111
+Age-related macular degeneration (choroidal neovascularisation)	1	6	0.166666666666667
+Retinopathy in non-diabetics	2	11	0.181818181818182
+Asparaginase-induced acute pancreatitis in acute lymphoblastic leukemia (onset time)	1	10	0.1
+Lipoprotein (a) - cholesterol levels	4	15	0.266666666666667
+Carotid intima media thickness	3	23	0.130434782608696
+Ileal carcinoids	1	4	0.25
+Differentiated thyroid cancer	1	10	0.1
+Cerebrospinal fluid clusterin levels in APOEe4- carriers	1	1	1
+Attention deficit hyperactivity disorder and conduct disorder	4	26	0.153846153846154
+Response to serotonin reuptake inhibitors in major depressive disorder (plasma drug and metabolite levels)	2	15	0.133333333333333
+Interleukin-13 levels	2	33	0.0606060606060606
+Autoimmune thyroid diseases (Graves disease or Hashimoto's thyroiditis)	5	10	0.5
+Cognitive function	13	82	0.158536585365854
+Body mass index in non-asthmatics	3	9	0.333333333333333
+Epilepsy and lamotrigine-induced maculopapular eruptions	4	27	0.148148148148148
+Left ventricular mass	1	3	0.333333333333333
+Preschool internalizing problems	2	13	0.153846153846154
+Alloimmunization response to red blood cell transfusion in sickle cell anemia	1	1	1
+Ovarian cancer	5	28	0.178571428571429
+Drug-induced liver injury (anti-tuberculosis drugs)	1	3	0.333333333333333
+Neuroblastoma	1	10	0.1
+Lobe attachment (rater scored)	2	19	0.105263157894737
+Ratio of the area under the curve for insulin and the area under the curve for glucose	1	1	1
+Exploratory eye movement dysfunction in schizophrenia (responsive search score)	2	21	0.0952380952380952
+Anthropometric traits in newborns	1	5	0.2
+Bone mineral density change response to combined chemotherapy in acute lymphoblastic leukemia	1	4	0.25
+Plasma omega-3 polyunsaturated fatty acid levels (alphalinolenic acid)	2	19	0.105263157894737
+Very long-chain saturated fatty acid levels (fatty acid 20:0)	6	21	0.285714285714286
+Migraine with aura	2	23	0.0869565217391304
+Aortic root size	5	21	0.238095238095238
+Urinary metabolites (H-NMR features)	11	39	0.282051282051282
+Schizophrenia, bipolar disorder and depression (combined)	2	5	0.4
+Venous thromboembolism	4	44	0.0909090909090909
+Metabolic syndrome	11	49	0.224489795918367
+Vascular brain injury	3	14	0.214285714285714
+Lachrymal/Salivary gland lesion in type 1 autoimmune pancreatitis	1	2	0.5
+Social communication problems	2	21	0.0952380952380952
+Complement C3 and C4 levels	4	10	0.4
+Fuchs's corneal dystrophy	2	8	0.25
+Paclitaxel disposition in epithelial ovarian cancer	2	31	0.0645161290322581
+Nonsyndromic cleft lip with or without cleft palate	2	19	0.105263157894737
+Alcoholism (alcohol use disorder factor score)	1	6	0.166666666666667
+Smoking initiation	8	27	0.296296296296296
+Age at voice drop	2	14	0.142857142857143
+Serum vitamin D-binding protein levels	2	3	0.666666666666667
+Subjective response to lithium treatment in bipolar disorder	1	4	0.25
+Mean arterial pressure	2	13	0.153846153846154
+Waist-hip ratio	29	105	0.276190476190476
+circulating leptin levels	3	10	0.3
+Brain imaging	3	12	0.25
+Refractive astigmatism	4	17	0.235294117647059
+Osteoprotegerin levels	1	4	0.25
+Developmental language disorder	3	4	0.75
+Mean platelet volume	55	356	0.154494382022472
+Kidney disease (late stage) in type 1 diabetes	1	1	1
+Endometrial endometrioid carcinoma	2	7	0.285714285714286
+Functional MRI	1	2	0.5
+Blood pressure (age interaction)	2	3	0.666666666666667
+Antineutrophil cytoplasmic antibody-associated vasculitis	5	24	0.208333333333333
+Thyroid peroxidase antibody levels	1	5	0.2
+Radiation response	3	12	0.25
+Post traumatic stress disorder symptom count in trauma-exposed individuals	1	1	1
+Body mass index (change over time) in cancer or chronic obstructive pulmonary disease	2	3	0.666666666666667
+Interleukin-6 levels	1	29	0.0344827586206897
+Insomnia (caffeine-induced)	2	9	0.222222222222222
+Cerebrospinal fluid clusterin levels	4	24	0.166666666666667
+Iron status biomarkers (iron levels)	3	24	0.125
+Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 3 peripheral neuropathy)	6	16	0.375
+Oropharynx cancer	2	17	0.117647058823529
+Vitiligo	23	94	0.24468085106383
+Alanine transaminase levels	1	1	1
+Type 1 diabetes	51	170	0.3
+Number of children ever born	2	5	0.4
+Prostate cancer (SNP x SNP interaction)	27	102	0.264705882352941
+Fasting blood insulin	2	12	0.166666666666667
+Testosterone levels in polycystic ovary syndrome	1	4	0.25
+Attention deficit hyperactivity disorder	21	96	0.21875
+Postoperative atrial fibrillation in coronary artery bypass grafting surgery	1	3	0.333333333333333
+Triglyceride levels	15	70	0.214285714285714
+Manic episodes in bipolar disorder	1	3	0.333333333333333
+Vascular endothelial growth factor levels	8	54	0.148148148148148
+Creatinine levels in ischemic stroke	1	6	0.166666666666667
+Ovarian reserve	1	7	0.142857142857143
+Hypospadias	8	25	0.32
+Body mass (lean)	1	2	0.5
+HIV-associated neurocognitive disorder	1	2	0.5
+AIDS progression	2	10	0.2
+Metabolite levels (Dihydroxy docosatrienoic acid)	5	20	0.25
+Body mass index (joint analysis main effects and physical activity interaction)	53	242	0.21900826446281
+Sum eosinophil basophil counts	32	198	0.161616161616162
+Intracranial volume	1	2	0.5
+Major depression and alcohol dependence	6	47	0.127659574468085
+Iris heterochromicity	1	5	0.2
+Sleep quality	1	7	0.142857142857143
+Incident myocardial infarction	1	4	0.25
+Cardiovascular disease risk factors	3	24	0.125
+Non-obstructive azoospermia	1	5	0.2
+Autism spectrum disorder or schizophrenia	28	301	0.0930232558139535
+Frontotemporal dementia (age at onset)	1	1	1
+Glaucoma (low intraocular pressure)	2	3	0.666666666666667
+Alzheimer's disease biomarkers	7	25	0.28
+Free thyroxine concentration	1	3	0.333333333333333
+Sarcoidosis (non-Lofgren's syndrome without extrapulmonary manifestations)	1	5	0.2
+Neutrophil percentage of granulocytes	23	168	0.136904761904762
+Melanoma	9	55	0.163636363636364
+Ovarian cancer in BRCA1 mutation carriers	2	11	0.181818181818182
+Age-related diseases, mortality and associated endophenotypes	5	44	0.113636363636364
+Exploratory eye movement dysfunction in schizophrenia (cognitive search score)	3	15	0.2
+BMI in non-smokers	18	105	0.171428571428571
+Pediatric nonalcoholic steatohepatitis	1	2	0.5
+Response to anti-depressant treatment in major depressive disorder	6	22	0.272727272727273
+Response to dabigatran etexilate treatment	1	2	0.5
+Delta-6 desaturase activity response to n3-polyunsaturated fat supplement	1	1	1
+Ratio of apolipoprotein A1 to apolipoprotein B	1	1	1
+White matter lesion progression	2	7	0.285714285714286
+Diffuse large B cell lymphoma	3	8	0.375
+Childhood body mass index	5	39	0.128205128205128
+Fear of severe pain	3	8	0.375
+Urinary metabolites	10	25	0.4
+Blood trace element (Cu levels)	2	7	0.285714285714286
+Hair morphology	2	15	0.133333333333333
+Erythema nodosum in inflammatory bowel disease	3	5	0.6
+Mitral valve prolapse	1	8	0.125
+Myringotomy	4	34	0.117647058823529
+Blood osmolality (transformed sodium)	7	37	0.189189189189189
+Visceral fat	10	40	0.25
+Lung cancer in never smokers	3	23	0.130434782608696
+Atopic dermatitis	13	82	0.158536585365854
+Binge eating behaviour and bipolar disorder	1	7	0.142857142857143
+Loneliness (multivariate analysis)	4	19	0.210526315789474
+Interleukin-2 levels	4	26	0.153846153846154
+Optic cup area	11	93	0.118279569892473
+Response to antipsychotic treatment in schizophrenia (reasoning)	3	10	0.3
+Cerebrospinal T-tau levels	2	30	0.0666666666666667
+Major depressive disorder (broad)	1	9	0.111111111111111
+Serum metabolite concentrations in chronic kidney disease	6	40	0.15
+Body mass index (change over time) in lung cancer or chronic obstructive pulmonary disease	1	5	0.2
+Smoking behavior	11	46	0.239130434782609
+Resistance to Mycobacterium tuberculosis in HIV-positive individuals measured by a negative tuberculin skin test (dichotomous)	1	3	0.333333333333333
+Lifespan	1	9	0.111111111111111
+Eotaxin levels	6	46	0.130434782608696
+Sleep depth	1	2	0.5
+Plasma omega-6 polyunsaturated fatty acid levels (arachidonic acid)	5	23	0.217391304347826
+Post-traumatic stress disorder (asjusted for relatedness)	5	19	0.263157894736842
+Cannabis dependence symptom count	2	37	0.0540540540540541
+Triglyceride levels in small VLDL	1	20	0.05
+Breast Cancer in BRCA1 mutation carriers	3	16	0.1875
+Breast cancer (early onset)	6	18	0.333333333333333
+Chronotype	5	39	0.128205128205128
+Febrile seizures (MMR vaccine-related)	1	10	0.1
+Hip circumference (psychosocial stress interaction)	1	5	0.2
+Large artery stroke	2	14	0.142857142857143
+Relative hand skill in reading disability	3	10	0.3
+Bone mineral density (paediatric, total body less head)	7	25	0.28
+Airflow obstruction	3	31	0.0967741935483871
+Hand grip strength	4	25	0.16
+Waist-to-hip circumference ratio (ever vs never smoking interaction)	1	3	0.333333333333333
+Dengue shock syndrome	1	4	0.25
+Word reading	1	15	0.0666666666666667
+Dupuytren's disease	9	41	0.219512195121951
+Idiopathic osteonecrosis of the femoral head	1	10	0.1
+Heart rate	8	39	0.205128205128205
+Tonometry	4	13	0.307692307692308
+Platelet aggregation	4	15	0.266666666666667
+Allergic dermatitis (nickel)	1	2	0.5
+Ankle injury	7	38	0.184210526315789
+Ovarian clear cell cancer	1	2	0.5
+Male fertility	1	6	0.166666666666667
+Macrophage colony stimulating factor levels	1	23	0.0434782608695652
+Celiac disease or Rheumatoid arthritis	3	15	0.2
+Blood pressure	19	119	0.159663865546218
+Serum VEGFR2 concentration	1	1	1
+Liver injury in combined anti-retroviral and anti-tuberculosis drug-treated HIV with tuberculosis	1	3	0.333333333333333
+Autoimmune hepatitis type-1	1	3	0.333333333333333
+Otitis media (chronic)	1	2	0.5
+Facial morphology (factor 15, philtrum width)	1	26	0.0384615384615385
+Behavioral disturbance or psychiatric symptoms and prion disease	1	3	0.333333333333333
+Age of smoking initiation	3	8	0.375
+Phytosterol levels	1	3	0.333333333333333
+Facial morphology (factor 6, height of vermillion lower lip)	3	22	0.136363636363636
+Response to radiotherapy in prostate cancer (toxicity, urinary frequency)	1	11	0.0909090909090909
+Creutzfeldt-Jakob disease	1	2	0.5
+Metabolite levels (Pyroglutamine)	6	23	0.260869565217391
+Nodular sclerosis Hodgkin lymphoma	1	17	0.0588235294117647
+Psoriasis	52	194	0.268041237113402
+Helix rolling	1	6	0.166666666666667
+Low density lipoprotein cholesterol	1	2	0.5
+Kidney disease (end stage renal disease vs non-end stage renal disease) in type 1 diabetes	1	2	0.5
+Thionamide-induced agranulocytosis in Graves' disease	2	9	0.222222222222222
+Toenail selenium levels	5	16	0.3125
+Intelligence (MTAG)	102	645	0.158139534883721
+Factor VII levels	1	2	0.5
+Dental caries	10	69	0.144927536231884
+Language performance in older adults (adjusted for episodic memory)	2	8	0.25
+Nonalcoholic steatohepatitis-derived hepatocellular carcinoma	1	3	0.333333333333333
+Food addiction	2	10	0.2
+Hypothyroidism	13	45	0.288888888888889
+Contrast sensitivity	1	5	0.2
+Scoliosis	1	3	0.333333333333333
+Symmetrical dimethylarginine levels	4	31	0.129032258064516
+Estradiol levels	1	8	0.125
+Response to cognitive-behavioural therapy in anxiety disorder	2	12	0.166666666666667
+Hashimoto thyroiditis	1	1	1
+Joint mobility (Beighton score)	2	25	0.08
+Pre bronchodilator FEV1/FVC ratio	4	12	0.333333333333333
+Response to TNF antagonist treatment	3	8	0.375
+Immune reponse to smallpox (secreted IL-12p40)	2	10	0.2
+Antibody status in Tripanosoma cruzi seropositivity	3	20	0.15
+Primary tooth development (number of teeth)	5	20	0.25
+Cardiovascular risk factors	1	2	0.5
+Age at first birth	8	22	0.363636363636364
+Subcortical brain region volumes	1	12	0.0833333333333333
+Congenital heart disease	1	2	0.5
+Depressive symptoms	8	33	0.242424242424242
+Refractive error	8	29	0.275862068965517
+Facial morphology (factor 1, breadth of lateral portion of upper face)	4	21	0.19047619047619
+Granulocyte-colony stimulating factor levels	2	20	0.1
+Hip circumference adjusted for BMI	37	225	0.164444444444444
+middle facial morphology traits (quantitative measurement)	3	7	0.428571428571429
+Response to antipsychotic treatment in schizophrenia (working memory)	3	11	0.272727272727273
+Neuritic plaques or cerebral amyloid angiopathy (pleiotropy)	1	3	0.333333333333333
+Glycated hemoglobin levels	33	111	0.297297297297297
+Dialysis-related mortality	6	26	0.230769230769231
+Addiction	2	16	0.125
+Bladder cancer	11	31	0.354838709677419
+Paget's disease	6	13	0.461538461538462
+Waist Circumference - Triglycerides (WC-TG)	1	7	0.142857142857143
+Tourette's syndrome or obsessive-compulsive disorder	3	15	0.2
+Response to metformin in type 2 diabetes (HbA1c reduction)	1	1	1
+Carboplatin disposition in epthelial ovarian cancer	4	18	0.222222222222222
+Facial morphology (factor 13, vertical position of alar curvature relative to upper lip)	1	16	0.0625
+Mean corpuscular volume	83	416	0.199519230769231
+White matter integrity (bipolar disorder risk interaction)	2	6	0.333333333333333
+Immunoglobulin light chain (AL) amyloidosis (serum Ig lambda profile)	1	2	0.5
+Egg allergy	1	5	0.2
+Number of children (6+ vs. 0 or 1)	2	11	0.181818181818182
+Length of menstrual cycle	1	2	0.5
+Head circumference (infant)	1	3	0.333333333333333
+Psychosis and Alzheimer's disease	3	11	0.272727272727273
+Homeostasis model assessment of insulin resistance (dietary factor interaction)	2	15	0.133333333333333
+Loneliness (linear analysis)	2	18	0.111111111111111
+Urate levels in obese individuals	5	35	0.142857142857143
+Circulating myeloperoxidase levels (plasma)	2	3	0.666666666666667
+Thrombosis	1	13	0.0769230769230769
+Response to amphetamines	16	88	0.181818181818182
+Hippocampal atrophy	9	34	0.264705882352941
+Optic nerve measurement (cup area)	2	9	0.222222222222222
+Fractional exhaled nitric oxide levels	1	2	0.5
+Coronary artery disease (myocardial infarction, percutaneous transluminal coronary angioplasty, coronary artery bypass grafting, angina or chromic ischemic heart disease)	17	72	0.236111111111111
+Pulmonary function (smoking interaction)	13	53	0.245283018867925
+Otitis media	1	4	0.25
+diarrhoeal disease at age 2 with doctor diagnosis	1	1	1
+Exudative age-related macular degeneration	2	7	0.285714285714286
+Tooth agenesis (maxillary lateral incisors)	1	2	0.5
+Idiopathic pulmonary fibrosis	1	13	0.0769230769230769
+Isovolumetric relaxation time	3	5	0.6
+QRS complex (Cornell)	2	17	0.117647058823529
+Functional impairment in major depressive disorder, bipolar disorder and schizophrenia	1	5	0.2
+Entorhinal cortical thickness	1	5	0.2
+Total body bone mineral density (age 45-60)	1	18	0.0555555555555556
+Non-glioblastoma glioma	7	30	0.233333333333333
+Plasma omega-6 polyunsaturated fatty acid levels (linoleic acid)	5	25	0.2
+Survival in colon cancer	2	12	0.166666666666667
+E-selectin levels	1	1	1
+Perioperative myocardial infarction in coronary artery bypass surgery	4	25	0.16
+Intracranial aneurysm	5	50	0.1
+Arthritis (juvenile idiopathic)	2	7	0.285714285714286
+Gamma glutamyl transferase levels	1	4	0.25
+Virologic severity in Herpes simplex virus type 2 infection	2	12	0.166666666666667
+Gallstone disease	2	7	0.285714285714286
+Gestational age at birth (child effect)	3	13	0.230769230769231
+Asthma	46	200	0.23
+Coffee consumption	3	20	0.15
+Waist-to-hip circumference ratio (smoking years interaction)	1	3	0.333333333333333
+N-glycan levels	38	49	0.775510204081633
+Attention deficit hyperactivity disorder (inattention symptoms)	5	22	0.227272727272727
+Intraocular pressure	74	462	0.16017316017316
+Response to tocilizumab in rheumatoid arthritis	3	28	0.107142857142857
+Acute lymphoblastic leukemia (childhood)	13	72	0.180555555555556
+Iron status biomarkers (transferrin saturation)	2	38	0.0526315789473684
+Pelvic organ prolapse	4	25	0.16
+Cognitive decline (age-related)	3	21	0.142857142857143
+QRS complex (Sokolow-Lyon)	1	9	0.111111111111111
+Plasma clusterin levels	1	15	0.0666666666666667
+Facial morphology (factor 16)	1	15	0.0666666666666667
+Response to platinum-based neoadjuvant chemotherapy in cervical cancer	1	3	0.333333333333333
+Monocyte chemoattractant protein-1 (red blood cell fatty acid level interaction)	1	1	1
+Pediatric bone mineral density (femoral neck)	2	17	0.117647058823529
+Interleukin-4 levels	2	24	0.0833333333333333
+Skin colour saturation	2	14	0.142857142857143
+Schizophrenia (treatment resistant)	1	3	0.333333333333333
+Fear of minor pain	3	19	0.157894736842105
+Urinary bladder cancer	4	7	0.571428571428571
+Weight loss (gastric bypass surgery)	3	12	0.25
+Lung function (maximal voluntary ventilation)	1	3	0.333333333333333
+Response to statins (LDL cholesterol change)	3	14	0.214285714285714
+Response to angiotensin II receptor blocker therapy (opposite direction w/ diuretic therapy)	2	5	0.4
+Alcoholism (12-month weekly alcohol consumption)	1	2	0.5
+Pericardial fat	2	3	0.666666666666667
+Plantar warts	3	59	0.0508474576271186
+Osteosarcoma	2	6	0.333333333333333
+Age-related disease endophenotypes	3	31	0.0967741935483871
+IgE levels in asthmatics (D.f. specific)	1	2	0.5
+Facial morphology (factor 11, projection of the nose)	3	19	0.157894736842105
+Allergy	3	26	0.115384615384615
+Cannabis use (initiation)	4	20	0.2
+LDL peak particle diameter (total fat intake interaction)	6	21	0.285714285714286
+Triglyceride change in response to fenofibrate in statin-treated type 2 diabetes	5	26	0.192307692307692
+Obesity	23	104	0.221153846153846
+Bilirubin levels in extreme obesity	1	1	1
+Systolic blood pressure change trajectories	3	10	0.3
+Invasive epithelial ovarian cancer	2	17	0.117647058823529
+Subjective well-being	16	126	0.126984126984127
+Congenital heart disease (inherited effect)	2	10	0.2
+Pre bronchodilator FEV1	5	12	0.416666666666667
+Waist circumference adjusted for BMI in inactive individuals	2	14	0.142857142857143
+Glucocorticoid-induced osteonecrosis (age 10 years and older)	2	11	0.181818181818182
+Microalbuminuria	2	15	0.133333333333333
+Epstein Barr virus nuclear antigen 1 IgG levels	2	9	0.222222222222222
+Testicular germ cell tumor	17	126	0.134920634920635
+Rheumatic fever	2	24	0.0833333333333333
+Yu-Zhi constitution type in type 2 diabetes	2	11	0.181818181818182
+Birth weight	18	74	0.243243243243243
+Sleep time	1	5	0.2
+Longevity (90 years and older)	2	10	0.2
+BMI in smokers	9	30	0.3
+Facial morphology (factor 2, vertical position of orbits relative to midface)	1	16	0.0625
+Soluble ICAM-1	4	7	0.571428571428571
+Thiazide-induced adverse metabolic effects in hypertensive patients	9	59	0.152542372881356
+Cutaneous squamous cell carcinoma	3	13	0.230769230769231
+Response to taxane treatment (placlitaxel)	2	13	0.153846153846154
+Mammographic density	1	5	0.2
+Exercise treadmill test traits	1	4	0.25
+Sleep latency	1	1	1
+Response to antidepressant treatment (citalopram)	1	3	0.333333333333333
+Response to metformin (IC50)	2	12	0.166666666666667
+Vitiligo (non-segmental)	1	1	1
+Iris color (a* coordinate)	1	9	0.111111111111111
+Systolic blood pressure (cigarette smoking interaction)	2	8	0.25
+Coronary artery calcified atherosclerotic plaque (90 or 130 HU threshold) in type 2 diabetes	6	68	0.0882352941176471
+Interleukin-2 receptor antagonist levels	1	27	0.037037037037037
+Lower body strength	2	11	0.181818181818182
+B-cell malignancies (chronic lymphocytic leukemia, Hodgkin lymphoma or multiple myeloma) (pleiotropy)	1	20	0.05
+Mental development (prenatal lead exposure interaction)	1	1	1
+Postprandial triglyceride response to high fat diet meal	2	9	0.222222222222222
+Conduct disorder (maternal expressed emotions interaction)	3	15	0.2
+Esophageal cancer	3	13	0.230769230769231
+Venlafaxine response in generalised anxiety disorder (remitters vs non-remitters after 24 weeks)	1	3	0.333333333333333
+Western dietary pattern	1	23	0.0434782608695652
+Craniofacial microsomia	2	13	0.153846153846154
+Bipolar disorder	42	174	0.241379310344828
+Left ventricular obstructive tract defect (maternal effect)	1	9	0.111111111111111
+Low-grade serous and serous borderline ovarian cancer	2	12	0.166666666666667
+Reading and spelling	1	10	0.1
+Immature fraction of reticulocytes	33	145	0.227586206896552
+Thyroid cancer	5	22	0.227272727272727
+Epilepsy (generalized)	2	10	0.2
+Seborrheic dermatitis	1	12	0.0833333333333333
+Anti-cyclic Citrullinated Peptide Antibody	1	1	1
+Blood and toenail selenium levels	3	12	0.25
+Pericardial adipose tissue adjusted for height and weight	3	9	0.333333333333333
+Presence of antiphospholipid antibodies	2	23	0.0869565217391304
+Iron levels	1	1	1
+Smoking quantity	1	8	0.125
+Overall survival in serous epithelial ovarian cancer treated with paclitaxel and cisplatin	1	10	0.1
+Cold sores	3	43	0.0697674418604651
+RANTES levels	1	33	0.0303030303030303
+Advanced age-related macular degeneration	6	54	0.111111111111111
+Adverse response to chemotherapy (neutropenia/leucopenia) (doxorubicin)	1	3	0.333333333333333
+Verbal memory performance (residualized delayed recall level)	1	7	0.142857142857143
+Adverse response to chemotherapy (neutropenia/leucopenia) (cisplatin)	1	7	0.142857142857143
+Resistance to Mycobacterium tuberculosis in HIV-positive individuals measured by a negative tuberculin skin test (continuous)	1	4	0.25
+Normalized brain volume	1	5	0.2
+Metabolic syndrome (bivariate traits)	4	16	0.25
+Mammographic density (dense area)	4	12	0.333333333333333
+Depressive symptoms measurement (somatic complaints domain)	1	1	1
+Immune reponse to smallpox (secreted IL-1beta)	1	13	0.0769230769230769
+Kidney disease (end stage renal disease vs normoalbuminuria) in type 1 diabetes	1	1	1
+Wilms tumor	1	7	0.142857142857143
+Pulmonary emphysema	1	3	0.333333333333333
+Plasma amyloid beta peptide concentrations (ABx-40)	3	10	0.3
+Chronic periodontitis	1	2	0.5
+Adverse response to chemotherapy (neutropenia/leucopenia) (all topoisomerase inhibitors)	1	6	0.166666666666667
+Obesity (extreme)	2	17	0.117647058823529
+Waist circumference adjusted for BMI in smokers	4	15	0.266666666666667
+Body mass index (change over time) in gastrointestinal cancer or chronic obstructive pulmonary disease	1	4	0.25
+Strep throat	5	49	0.102040816326531
+Acylcarnitine levels	1	15	0.0666666666666667
+Serum uric acid levels in response to allopurinol in gout	4	26	0.153846153846154
+Acute graft versus host disease in bone marrow transplantation (recipient effect)	4	19	0.210526315789474
+Plasma amyloid beta peptide concentrations (ABx-42)	1	8	0.125
+Lung cancer (smoking interaction)	1	2	0.5
+Serum lycopene concentrations	1	5	0.2
+BMI (adjusted for smoking behaviour)	27	145	0.186206896551724
+Developmental language disorder (linguistic errors)	2	9	0.222222222222222
+Vitamin B12 levels	3	11	0.272727272727273
+Type 2 diabetes (age of onset)	4	26	0.153846153846154
+Rhegmatogenous retinal detachment	3	4	0.75
+Inflammatory biomarkers	5	29	0.172413793103448
+Biliary atresia	1	3	0.333333333333333
+Nasopharyngeal carcinoma	3	25	0.12
+Lung function (FEV1)	6	42	0.142857142857143
+Adenocarcinoma	2	5	0.4
+Brain imaging in schizophrenia (dorsolateral prefrontal cortex interaction)	3	6	0.5
+Seasonality	2	8	0.25
+Hepcidin levels	1	15	0.0666666666666667
+Dehydroepiandrosterone sulphate levels	2	10	0.2
+Waist circumference adjusted for BMI in active individuals	50	235	0.212765957446809
+Myasthenia gravis	3	9	0.333333333333333
+Sarcoidosis (Lofgren's syndrome vs non-Lofgren's syndrome)	4	23	0.173913043478261
+Gambling	1	5	0.2
+Smoking cessation in chronic obstructive pulmonary disease	1	8	0.125
+Pre-treatment pain in head and neck squamous cell carcinoma	4	9	0.444444444444444
+Body mass index (SNP x SNP interaction)	4	11	0.363636363636364
+Body mass index in physically active individuals	44	195	0.225641025641026
+Bone mineral density (Ward's triangle area)	1	18	0.0555555555555556
+Suicidal ideation	1	4	0.25
+Bipolar disorder with mood-incongruent psychosis	3	16	0.1875
+Premature menopause in childhood cancer survivors	1	8	0.125
+Creatinine levels	1	9	0.111111111111111
+Plasma trimethylamine N-oxide levels	1	12	0.0833333333333333
+Adverse response to chemotherapy in breast cancer (alopecia) (anti-microtubule)	2	7	0.285714285714286
+Hair shape	5	11	0.454545454545455
+Wegener's granulomatosis	2	6	0.333333333333333
+Anger	1	14	0.0714285714285714
+Schizophrenia (age at onset)	1	2	0.5
+Classic bladder exstrophy	2	25	0.08
+Response to citalopram treatment	5	24	0.208333333333333
+Renal transplant outcome	1	4	0.25
+Influenza A (H1N1) severity	1	7	0.142857142857143
+Waist-to-hip ratio adjusted for BMI in active individuals	53	143	0.370629370629371
+Response to taxane treatment (docetaxel)	1	16	0.0625
+Adverse response to chemotherapy (neutropenia/leucopenia) (camptothecin)	2	3	0.666666666666667
+Interleukin-7 levels	2	23	0.0869565217391304
+D-dimer levels	2	15	0.133333333333333
+Amyotrophic lateral sclerosis (C9orf72 mutation interaction)	1	3	0.333333333333333
+Depressive and manic episodes in bipolar disorder	1	7	0.142857142857143
+Betaine levels in individuals undergoing cardiac evaluation	1	2	0.5
+Pulmonary function in asthmatics	2	10	0.2
+Liver enzyme levels (gamma-glutamyl transferase)	9	26	0.346153846153846
+Interferon gamma-induced protein 10 levels	1	36	0.0277777777777778
+Resistance to antihypertensive treatment in hypertension	1	6	0.166666666666667
+Lipoprotein (a) levels	12	79	0.151898734177215
+Plateletcrit	38	258	0.147286821705426
+Esophageal cancer and gastric cancer	1	4	0.25
+Lipoprotein-associated phospholipase A2 activity change in response to darapladib treatment in cardiovascular disease	2	3	0.666666666666667
+Periodontal disease-related phenotypes	5	22	0.227272727272727
+Plasma androstenedione levels in resected early stage-receptor positive breast cancer	2	5	0.4
+Plasminogen activator inhibitor type 1 levels (PAI-1)	1	4	0.25
+Electroencephalographic traits in alcoholism	2	8	0.25
+Bipolar disorder lithium response (continuous) or schizophrenia	2	8	0.25
+Setpoint viral load in HIV-1 infection	2	2	1
+Subjective well-being (MTAG)	9	49	0.183673469387755
+Schizophrenia (negative symptoms)	1	3	0.333333333333333
+Facial morphology (factor 18)	2	20	0.1
+Hair color	2	30	0.0666666666666667
+Cerebrospinal fluid beta-site APP cleaving enzyme levels	2	8	0.25
+Post bronchodilator FEV1 in COPD	9	124	0.0725806451612903
+Cannabis dependence	3	11	0.272727272727273
+Autism spectrum disorder-related traits	1	6	0.166666666666667
+Homoarginine levels	1	1	1
+nicotine metabolite ratio in current smokers	2	17	0.117647058823529
+Bone mineral density	19	130	0.146153846153846
+Pyoderma gangrenosum in inflammatory bowel disease	1	7	0.142857142857143
+Anti-thyroid drug induced agranulocytosis	1	4	0.25
+Metabolic traits	7	48	0.145833333333333
+Response to chemotherapy in breast cancer (hypertension) (bevacizumab)	1	3	0.333333333333333
+Response to angiotensin II receptor blocker therapy	3	20	0.15
+Alanine aminotransferase (ALT) levels after remission induction therapy in actute lymphoblastic leukemia (ALL)	8	54	0.148148148148148
+Gamma glutamyl transpeptidase	2	7	0.285714285714286
+Immune reponse to smallpox (secreted IL-2)	5	17	0.294117647058824
+Childhood ear infection	19	116	0.163793103448276
+Fasting plasma glucose (childhood)	1	1	1
+Carotid plaque burden	2	39	0.0512820512820513
+Verbal-numerical reasoning	1	2	0.5
+Incident atrial fibrillation	1	5	0.2
+Age-related macular degeneration	9	98	0.0918367346938776
+Multiple myeloma (IgH translocation)	4	25	0.16
+Protein biomarker	1	2	0.5
+IgG N-glycosylation phenotypes (multivariate analysis)	1	9	0.111111111111111
+Response to antineoplastic agents	1	9	0.111111111111111
+Body mass index	284	1374	0.20669577874818
+Chronic inflammatory diseases (ankylosing spondylitis, Crohn's disease, psoriasis, primary sclerosing cholangitis, ulcerative colitis) (pleiotropy)	51	244	0.209016393442623
+Caffeine metabolism (plasma 1,7-dimethylxanthine (paraxanthine) to 1,3,7-trimethylxanthine (caffeine) ratio)	4	31	0.129032258064516
+Cholesterol, total	51	227	0.224669603524229
+Obstructive sleep apnea trait (average respiratory event duration)	1	14	0.0714285714285714
+Esophageal cancer  (alcohol interaction)	3	4	0.75
+Scarlet fever	7	54	0.12962962962963
+Maximal oxygen uptake response	3	4	0.75
+Otitis media (chronic/recurrent)	1	1	1
+Interferon gamma levels	3	29	0.103448275862069
+Polycystic ovary syndrome	6	35	0.171428571428571
+Attention deficit hyperactivity disorder (time to onset)	2	11	0.181818181818182
+Bipolar I disorder	1	2	0.5
+Sepsis in extremely premature infants	1	5	0.2
+Major depressive disorder	46	285	0.16140350877193
+Behavioural disinhibition (generation interaction)	5	20	0.25
+Facial morphology (factor 17, height of vermillion upper lip)	2	25	0.08
+Middle childhood and early adolescence aggressive behavior	3	7	0.428571428571429
+Conotruncal heart defects (inherited effects)	1	10	0.1
+Thyroid peroxidase antibody positivity	2	11	0.181818181818182
+HDL cholesterol levels	24	111	0.216216216216216
+Idiopathic intracranial hypertension	1	15	0.0666666666666667
+White blood cell count (neutrophil)	1	4	0.25
+Chronic obstructive pulmonary disease (moderate to severe)	2	9	0.222222222222222
+Folate pathway vitamin levels	2	14	0.142857142857143
+Parent of origin effect on language impairment (paternal)	1	4	0.25
+Lung function (FEV1/FVC)	7	64	0.109375
+Lentiform nucleus volume	6	14	0.428571428571429
+Colorectal or endometrial cancer	3	29	0.103448275862069
+Central corneal thickness	12	72	0.166666666666667
+Percentage gas trapping	3	17	0.176470588235294
+Cardiovascular risk factors (age interaction)	1	4	0.25
+Metabolite levels (HVA)	1	13	0.0769230769230769
+Bipolar disorder (age of onset <21) or attention deficit hyperactivity disorder	2	6	0.333333333333333
+Heart rate variability traits (SDNN)	4	26	0.153846153846154
+HDL cholesterol	62	306	0.202614379084967
+Prostate cancer	58	293	0.197952218430034
+Pelvic organ prolapse (moderate/severe)	2	33	0.0606060606060606
+Neutrophil percentage of white cells	14	132	0.106060606060606
+Homeostasis model assessment of beta-cell function (dietary factor interaction)	4	12	0.333333333333333
+Triglycerides	38	209	0.181818181818182
+Hepatitis B vaccine response	2	5	0.4
+HDL cholesterol change in response to fenofibrate in statin-treated type 2 diabetes	1	6	0.166666666666667
+Liver injury in anti-tuberculosis drug treatment	1	2	0.5
+Lead levels in blood	1	15	0.0666666666666667
+Hodgkin's lymphoma	6	28	0.214285714285714
+Liver enzyme levels (alkaline phosphatase)	4	14	0.285714285714286
+Neuritic plaque	4	20	0.2
+Pediatric bone mineral content (radius)	4	24	0.166666666666667
+Peanut allergy (parent-of-origin effect)	1	5	0.2
+Suicide behavior	3	5	0.6
+Insulin resistance/response	4	15	0.266666666666667
+Bone mineral density (spine)	6	46	0.130434782608696
+General cognitive ability	1	3	0.333333333333333
+Ejection fraction in Tripanosoma cruzi seropositivity	4	25	0.16
+Body mass index (change over time) in lung cancer	1	3	0.333333333333333
+Hip circumference	19	142	0.133802816901408
+Whole-brain volume (Alzheimer's disease interaction)	1	4	0.25
+Plasma neurofilament light levels	1	2	0.5
+Caudate activity during reward	5	30	0.166666666666667
+Rheumatoid arthritis (ACPA-positive)	12	56	0.214285714285714
+Panic disorder	2	17	0.117647058823529
+Magnesium levels	8	31	0.258064516129032
+Response to fenofibrate (adiponectin levels)	6	12	0.5
+Hematology traits	3	23	0.130434782608696
+Volumetric brain MRI	2	5	0.4
+Breast cancer (male)	1	3	0.333333333333333
+Severe influenza A (H1N1) infection	1	34	0.0294117647058824
+IgE levels in asthmatics	2	4	0.5
+Longevity (85 years and older)	1	4	0.25
+Facial emotion recognition	2	3	0.666666666666667
+Verbal memory performance (immediate recall change)	2	4	0.5
+Homeostasis model assessment of beta-cell function	1	10	0.1
+Food allergy	1	7	0.142857142857143
+Photic sneeze reflex	7	49	0.142857142857143
+Psoriatic arthritis	3	19	0.157894736842105
+Protein quantitative trait loci	12	49	0.244897959183673
+Thyroid stimulating hormone	2	4	0.5
+Liver enzyme levels (alanine transaminase)	3	15	0.2
+Total triglycerides levels	1	20	0.05
+beta-nerve growth factor levels	2	26	0.0769230769230769
+Lung disease severity in cystic fibrosis	7	29	0.241379310344828
+Left  ventricle systolic dysfunction	3	6	0.5
+Fast beta electroencephalogram	1	6	0.166666666666667
+Menarche and menopause (age at onset)	1	6	0.166666666666667
+Obstructive sleep apnea trait (apnea hypopnea index)	1	42	0.0238095238095238
+Venlafaxine response in generalised anxiety disorder (HAMA-A score reduction after 24 weeks)	1	2	0.5
+Renal function-related traits (sCR)	4	9	0.444444444444444
+Heart rate response to beta blockers (atenolol monotherapy)	5	29	0.172413793103448
+Total ventricular volume (Alzheimer's disease interaction)	4	11	0.363636363636364
+Non-alcoholic fatty liver disease histology (AST)	1	6	0.166666666666667
+Alzheimer's disease (late onset)	19	90	0.211111111111111
+Serum tamsulosin hydrochloride concentration	1	4	0.25
+Optic nerve measurement (cup-to-disc ratio)	2	8	0.25
+Bone properties (heel)	6	20	0.3
+Response to simvastatin treatment (PCSK9 protein level change)	3	7	0.428571428571429
+IgE levels	7	18	0.388888888888889
+Hepatitis A	2	36	0.0555555555555556
+B-type natriuretic peptide levels	1	3	0.333333333333333
+Attention deficit hyperactivity disorder symptoms (maternal expressed emotions interaction)	2	7	0.285714285714286
+Forced expiratory volume in 1 second (occupational environmental exposures interaction)	1	7	0.142857142857143
+Resting heart rate	16	106	0.150943396226415
+Alzheimer's disease in APOE e4+ carriers	2	17	0.117647058823529
+Fractional exhaled nitric oxide (childhood)	11	25	0.44
+Glioblastoma	5	21	0.238095238095238
+Hereditary hemochromatosis-related traits (HFE mutation homozygotes)	2	2	1
+Educational attainment (years of education)	18	162	0.111111111111111
+Common carotid intima-media thickness in HIV negative individuals	3	13	0.230769230769231
+Liver enzyme levels (aspartate transaminase)	1	8	0.125
+Otitis media (recurrent)	1	4	0.25
+Response to antidepressants and depression	1	5	0.2
+Essential tremor	4	14	0.285714285714286
+Bipolar disorder and schizophrenia	22	122	0.180327868852459
+Squamous cell carcinoma	2	18	0.111111111111111
+Systolic blood pressure (dietary potassium intake interaction)	1	1	1
+Colonoscopy-negative controls vs population controls	32	131	0.244274809160305
+Left superior temporal gyrus thickness (schizophrenia interaction)	3	6	0.5
+Bone mineral density (paediatric, lower limb)	2	11	0.181818181818182
+Fetal hemoglobin levels	1	5	0.2
+Congenital left-sided heart lesions (maternal effect)	1	1	1
+Speech perception in dyslexia	1	2	0.5
+Facial emotion recognition (sad faces)	2	4	0.5
+Interferon alpha levels in systemic lupus erythematosus	2	8	0.25
+Severe malaria (adjusted for sickle cell variant rs334)	1	14	0.0714285714285714
+Serous invasive ovarian cancer	3	19	0.157894736842105
+White blood cell count	40	218	0.18348623853211
+Cortisol levels (saliva)	1	10	0.1
+Myocardial infarction (early onset)	3	9	0.333333333333333
+Parkinson disease and lewy body pathology	1	10	0.1
+Obstructive sleep apnea (average oxygen saturation during sleep)	3	5	0.6
+Diabetic kidney disease	10	58	0.172413793103448
+Monocyte count	45	258	0.174418604651163
+Gait rhythm	2	5	0.4
+Body fat percentage	14	53	0.264150943396226
+Medication adherence in chronic diseases	1	2	0.5
+Waist circumference adjusted for BMI in non-smokers	21	108	0.194444444444444
+Proteinuria and chronic kidney disease	1	9	0.111111111111111
+PR segment	1	8	0.125
+Oppositional defiant disorder dimensions in attention-deficit hyperactivity disorder	7	34	0.205882352941176
+Lipid metabolism phenotypes	31	91	0.340659340659341
+Thyroid hormone levels	12	60	0.2
+Primary biliary cholangitis	27	108	0.25
+Male-pattern baldness	14	114	0.12280701754386
+Familial hepatitis B virus-related hepatocellular carcinoma	2	4	0.5
+Body mass index (change over time) in cancer	1	1	1
+Mortality in sepsis	3	15	0.2
+Serum parathyroid hormone levels	2	6	0.333333333333333
+Bulimia nervosa	1	23	0.0434782608695652
+Hyperuricemia	2	2	1
+Reading or mathematical ability	1	2	0.5
+Bone ultrasound measurement (broadband ultrasound attenuation)	5	28	0.178571428571429
+Hippocampal volume	4	29	0.137931034482759
+Metabolite levels (small molecules and protein measures)	8	32	0.25
+White blood cell count (eosinophil)	1	5	0.2
+Mucinous ovarian carcinoma	2	13	0.153846153846154
+Major coronary event in cardiovascular disease (time to event) (darapladib treatment interaction)	1	5	0.2
+Carotenoid levels (alpha-carotene)	2	3	0.666666666666667
+Venous thromboembolism adjusted for sickle cell variant rs77121243-T	13	81	0.160493827160494
+Sum basophil neutrophil counts	28	148	0.189189189189189
+Renal cell carcinoma	9	41	0.219512195121951
+Economic and political preferences (time)	1	10	0.1
+Rheumatoid arthritis	71	351	0.202279202279202
+Cognitive ability (MTAG)	21	82	0.25609756097561
+Waist-to-hip ratio adjusted for BMI (joint analysis for main effect and physical activity interaction)	55	141	0.390070921985816
+Response to platinum-based agents	2	3	0.666666666666667
+Selective IgA deficiency	2	33	0.0606060606060606
+Interleukin-17 levels	1	34	0.0294117647058824
+IgG glycosylation patterns	44	309	0.142394822006472
+Coronary artery disease or ischemic stroke	3	14	0.214285714285714
+Alcohol dependence	20	120	0.166666666666667
+Alzheimer's disease (survival time)	1	7	0.142857142857143
+Response to anti-retroviral therapy (ddI/d4T) in HIV-1 infection (Grade 2 peripheral neuropathy)	4	13	0.307692307692308
+Immune response to measles-mumps-rubella vaccine	1	10	0.1
+HIV-1 replication	1	1	1
+Obesity (early onset extreme)	2	24	0.0833333333333333
+Basophil percentage of white cells	9	63	0.142857142857143
+Obstetric antiphospholipid syndrome	3	15	0.2
+Fasting insulin (dietary factor interaction)	2	14	0.142857142857143
+HIV-associated neurocognitive disorder (asymptomatic neurocogntive impairment)	2	3	0.666666666666667
+Expressive vocabulary in infants	2	8	0.25
+Immunoglobulin light chain (AL) amyloidosis (heart involvement)	1	1	1
+Post bronchodilator FEV1/FVC ratio in COPD	39	473	0.0824524312896406
+Asperger disorder	1	5	0.2
+Depression	2	15	0.133333333333333
+Preeclampsia	3	18	0.166666666666667
+Waist-to-hip ratio adjusted for body mass index	116	465	0.249462365591398
+Response to interferon beta in multiple sclerosis	1	3	0.333333333333333
+Eating disorders (purging via substances)	2	11	0.181818181818182
+Bacterial meningitis	1	38	0.0263157894736842
+Asparaginase hypersensitivity in acute lymphoblastic leukemia	2	9	0.222222222222222
+Serum 25-Hydroxyvitamin D levels	1	2	0.5
+Opioid sensitivity	1	4	0.25
+Cleft lip with or without cleft palate	3	32	0.09375
+Pediatric non-alcoholic fatty liver disease activity score	2	5	0.4
+Food allergy (parent-of-origin effect)	2	6	0.333333333333333
+Number of pregnancies	2	12	0.166666666666667
+Granulocyte count	26	150	0.173333333333333
+P wave duration	4	23	0.173913043478261
+Fasting blood insulin (BMI interaction)	4	20	0.2
+Cognitive decline rate in late mild cognitive impairment	12	143	0.0839160839160839
+Lapatinib-induced hepatotoxicity	1	1	1
+Hypertension (young onset)	1	4	0.25
+Immunoglobulin light chain (AL) amyloidosis	3	10	0.3
+Cognitive performance	22	121	0.181818181818182
+White matter hyperintensity burden	6	38	0.157894736842105
+Breast cancer (estrogen-receptor negative, progesterone-receptor negative, and human epidermal growth factor-receptor negative)	2	5	0.4
+Severe malaria	1	18	0.0555555555555556
+Alcohol consumption in current drinkers	1	8	0.125
+Renal underexcretion gout	1	8	0.125
+Adverse response to chemotherapy (neutropenia/leucopenia) (gemcitabine)	3	5	0.6
+Immunoglobulin light chain (AL) amyloidosis (serum Ig light chain only lambda/kappa based profile)	1	1	1
+Hypertension	4	55	0.0727272727272727
+Resting metabolic rate	3	10	0.3
+Coagulation factor levels	4	14	0.285714285714286
+Ewing sarcoma	1	3	0.333333333333333
+Psychotic symptoms in prion disease	1	3	0.333333333333333
+Adolescent idiopathic scoliosis	7	18	0.388888888888889
+Asthma or chronic obstructive pulmonary disease	1	3	0.333333333333333
+Adverse response to chemotherapy in breast cancer (alopecia) (docetaxel)	1	4	0.25
+RR interval (heart rate)	4	20	0.2
+White matter integrity	1	9	0.111111111111111
+Open-angle glaucoma and vertical cup-disc ratio	1	2	0.5
+Superior frontal gyrus grey matter volume	2	11	0.181818181818182
+Alcohol consumption (drinkers vs non-drinkers)	1	7	0.142857142857143
+Fasting blood glucose (BMI interaction)	7	33	0.212121212121212
+Monobrow	6	49	0.122448979591837
+Palmitoleic acid (16:1n-7) levels	6	19	0.315789473684211
+PR interval	8	45	0.177777777777778
+Basal cell carcinoma	11	66	0.166666666666667
+Waist-to-hip ratio adjusted for BMI in inactive individuals	5	8	0.625
+Ankylosing spondylitis	33	95	0.347368421052632
+Alzheimer's disease in APOE e4- carriers	6	32	0.1875
+Primary vesicoureteric reflux	1	1	1
+Ankylosing spondylitis (SNP x SNP interaction)	1	4	0.25
+Cutaneous lupus erythematosus	1	7	0.142857142857143
+Intrinsic epigenetic age acceleration	1	6	0.166666666666667
+Periodontitis (Mean PAL)	5	37	0.135135135135135
+Cerebrospinal fluid t-tau:AB1-42 ratio	4	30	0.133333333333333
+Common traits (Other)	5	16	0.3125
+Systolic blood pressure (alcohol consumption interaction)	2	11	0.181818181818182
+Corrected insulin response	2	6	0.333333333333333
+C-reactive protein levels or total cholesterol levels (pleiotropy)	6	20	0.3
+Cerebrospinal fluid levels of Alzheimer's disease-related proteins	1	5	0.2
+Non-small cell lung cancer	5	17	0.294117647058824
+Airway imaging phenotypes	1	14	0.0714285714285714
+Oral cavity and pharyngeal cancer	2	10	0.2
+Echocardiographic traits	2	8	0.25
+Venlafaxine response in generalised anxiety disorder (remitters vs non-remitters after 12 weeks)	1	4	0.25
+Menarche (age at onset)	38	235	0.161702127659574
+Metabolite levels (HVA/MHPG ratio)	3	25	0.12
+Hepatocyte growth factor levels	3	25	0.12
+Susceptibility to persistent hepatitis B virus infection	1	4	0.25
+Femoral neck bone geometry and menarche (age at onset)	2	6	0.333333333333333
+DNA methylation (variation)	3	19	0.157894736842105
+Eating disorders	2	15	0.133333333333333
+HIV-1 viral setpoint	8	33	0.242424242424242
+Proinsulin levels	2	10	0.2
+Tourette syndrome	1	7	0.142857142857143
+Response to paliperidone in schizophrenia (negative Marder score)	2	64	0.03125
+Facial morphology (factor 9, facial height related to vertical position of nasion)	1	18	0.0555555555555556
+Hirschsprung disease	5	22	0.227272727272727
+Percent mammographic density	1	7	0.142857142857143
+Tuberculosis	17	109	0.155963302752294
+Lipoprotein(a) levels adjusted for apolipoprotein(a) isoforms	1	28	0.0357142857142857
+Eye color traits	1	3	0.333333333333333
+Serum magnesium levels	1	1	1
+Optic disc parameters	1	3	0.333333333333333
+Conduct disorder (symptom count)	5	17	0.294117647058824
+Bone mineral density (paediatric, upper limb)	2	11	0.181818181818182
+Obsessive-compulsive symptoms	3	13	0.230769230769231
+Thyroid volume	3	8	0.375
+Birth length	2	6	0.333333333333333
+Hepatitis B (viral clearance)	4	4	1
+Opioid dependence	1	12	0.0833333333333333
+Temperament	5	16	0.3125
+Bone mineral density (hip) and age at menarche	1	8	0.125
+Post-traumatic stress disorder	5	26	0.192307692307692
+Economic and political preferences (environmentalism)	2	17	0.117647058823529
+Heart failure	1	17	0.0588235294117647
+Prostate cancer (early onset)	2	9	0.222222222222222
+Creutzfeldt-Jakob disease (variant)	1	6	0.166666666666667
+Leprosy	7	40	0.175
+Autism spectrum disorder	3	8	0.375
+Aging (facial)	1	7	0.142857142857143
+Mammographic density (non-dense area)	1	8	0.125
+Pharmacokinetics of olanzapine in severe mental disorder (concentration dose ratio)	2	4	0.5
+Anthracycline-induced cardiotoxicity in childhood cancer	2	2	1
+Non-response to antidepressants and depression	1	5	0.2
+Serum galactose-deficient IgA1 levels	1	4	0.25
+Red blood cell fatty acid levels	1	13	0.0769230769230769
+Appendicular lean mass	1	5	0.2
+Myocardial infarction	16	53	0.30188679245283
+Non-alcoholic fatty liver disease histology (other)	6	20	0.3
+Bronchodilator response in asthma	1	1	1
+Urinary albumin-to-creatinine ratio in diabetes	1	2	0.5
+Depressive symptoms (SSRI exposure interaction)	3	10	0.3
+Osteoarthritis (hip)	1	5	0.2
+High-grade serous ovarian cancer	4	19	0.210526315789474
+Serum protein levels (sST2)	3	14	0.214285714285714
+Pancreatitis	1	5	0.2
+Itch intensity from mosquito bite adjusted by bite size	34	336	0.101190476190476
+Triglyceride to HDL cholesterol ratio	1	2	0.5
+Diisocyanate-induced asthma	36	180	0.2
+C-reactive protein levels or HDL-cholesterol levels (pleiotropy)	2	20	0.1
+Acne (severe)	4	17	0.235294117647059
+Lymphocyte counts	38	182	0.208791208791209
+Moderate or severe diarrhoea in darapladib-treated cardiovascular disease (time to event)	2	7	0.285714285714286
+Yeast infection	1	48	0.0208333333333333
+Progression free survival in metastatic colorectal cancer (CAPOX-B vs CAPOX-B plus cetuximab)	2	3	0.666666666666667
+Food allergy (maternal genetic effects)	1	5	0.2
+Neutrophil count	32	179	0.17877094972067
+Sex hormone levels	3	15	0.2
+Facial morphology (factor 8, orbital inclination due to vertical and horizontal position of exocanthion)	3	18	0.166666666666667
+Immune reponse to smallpox (secreted IFN-alpha)	7	32	0.21875
+Malaria	1	13	0.0769230769230769
+Asthma (childhood onset)	11	66	0.166666666666667
+Bone ultrasound measurement (velocity of sound)	3	21	0.142857142857143
+Glomerular filtration rate in chronic kidney disease	1	22	0.0454545454545455
+Hematological parameters	3	12	0.25
+Parkinson's disease	38	212	0.179245283018868
+Smoking cessation	2	5	0.4
+Keloid	1	4	0.25
+Cerebrospinal P-tau181p levels	8	31	0.258064516129032
+White matter lesion progression (adjusted for white matter lesion burden at baseline)	1	6	0.166666666666667
+Immune response to smallpox vaccine (IL-6)	14	46	0.304347826086957
+HDL Cholesterol - Triglycerides (HDLC-TG)	1	8	0.125
+Heroin dependence	2	5	0.4
+Papillary thyroid cancer	1	9	0.111111111111111
+Common carotid intima-media thickness	2	10	0.2
+Serum total protein level	2	12	0.166666666666667
+Allergic rhinitis	12	35	0.342857142857143
+Monocyte chemoattractant protein-1 levels	3	56	0.0535714285714286
+Lipid traits	5	31	0.161290322580645
+Chronic sinus infection	1	45	0.0222222222222222
+Age-related hearing impairment	6	32	0.1875
+Peripheral arterial disease (traffic-related air pollution interaction)	33	159	0.207547169811321
+Permanent tooth development	2	4	0.5
+Diastolic blood pressure (alcohol consumption interaction)	3	4	0.75
+Systemic sclerosis (anti-topoisomerase-positive)	3	6	0.5
+Glomerular filtration rate in non diabetics (creatinine)	7	37	0.189189189189189
+Post bronchodilator FEV1/FVC ratio	137	1631	0.0839975475168608
+Glomerular filtration rate	16	52	0.307692307692308
+Multiple myeloma (hyperdiploidy)	1	14	0.0714285714285714
+Biochemical measures	7	17	0.411764705882353
+Multiple keratinocyte cancers	1	11	0.0909090909090909
+Adiponectin levels (BMI-adjusted)	1	4	0.25
+Gestational age at birth (maternal effect)	4	16	0.25
+Glioma	13	47	0.276595744680851
+Alcohol dependence (age at onset)	2	26	0.0769230769230769
+Platelet distribution width	37	200	0.185
+Gestational age at birth in premature rupture of membrane-initiated deliveries (child effect)	2	8	0.25
+Asthma (sex interaction)	2	6	0.333333333333333
+Emphysema distribution in smoking	1	9	0.111111111111111
+C-reactive protein	7	38	0.184210526315789
+Blood pressure measurement (low sodium intervention)	4	10	0.4
+Heschl's gyrus morphology	7	33	0.212121212121212
+Brain structure	2	21	0.0952380952380952
+Noise-induced hearing loss	1	1	1
+Hemostatic factors and hematological phenotypes	7	30	0.233333333333333
+Ischemic stroke (large artery atherosclerosis)	1	5	0.2
+Migraine - clinic-based	8	37	0.216216216216216
+Egg allergy (parent-of-origin effect)	1	3	0.333333333333333
+Attention deficit hyperactivity disorder (combined symptoms)	8	21	0.380952380952381
+Stem cell factor levels	2	29	0.0689655172413793
+IgE levels in asthmatics (D.p. specific)	1	3	0.333333333333333
+Homocysteine levels	2	21	0.0952380952380952
+Body mass index (change over time)	2	10	0.2
+Cough in response to angiotensin-converting enzyme inhibitor drugs	1	33	0.0303030303030303
+Objective response to lithium treatment in bipolar disorder	1	4	0.25
+Suicide attempts in bipolar disorder	2	3	0.666666666666667
+Estrogen receptor status in breast cancer	1	1	1
+Neutralising antibody response to interferon beta therapy in multiple sclerosis (presence of antibodies)	1	1	1
+Accelerated cognitive decline after conversion of mild cognitive impairment to Alzheimer's disease (Alzhiemer's diagnosis trajectory interaction)	2	11	0.181818181818182
+Multiple system atrophy	4	22	0.181818181818182
+Colorectal cancer (diet interaction)	2	13	0.153846153846154
+Puberty onset (genital enlargement)	1	1	1
+Heart rate variability traits (RMSSD)	3	24	0.125
+Mixed cryoglobulinemia vasculitis in chronic hepatitis C infection	1	2	0.5
+Asthma and hay fever	3	21	0.142857142857143
+Response to mTOR inhibitor (rapamycin)	2	5	0.4
+Pharmacokinetics of antiepileptic drugs in severe mental disorder (concentration drug ratio)	1	4	0.25
+Urate levels (BMI interaction)	2	22	0.0909090909090909
+Allergic sensitization	3	12	0.25
+Colorectal cancer (oestrogen-progestogen hormone therapy interaction)	1	1	1
+Oleic acid (18:1n-9) levels	5	13	0.384615384615385
+Blood pressure measurement (high sodium and potassium intervention)	7	13	0.538461538461538
+CTACK levels	2	46	0.0434782608695652
+Diastolic blood pressure	37	268	0.138059701492537
+Hemoglobin levels	6	22	0.272727272727273
+Myeloid white cell count	28	159	0.176100628930818
+Cervical artery dissection	2	5	0.4
+C-reactive protein levels	8	26	0.307692307692308
+Glaucoma (primary open-angle)	8	38	0.210526315789474
+Personality dimensions	7	22	0.318181818181818
+Cingulate cortical amyloid beta load	2	5	0.4
+Subclinical atherosclerosis traits (other)	1	8	0.125
+Vascular dementia	1	1	1
+Lipoprotein phospholipase A2 activity in cardiovascular disease	1	16	0.0625
+Subcutaneous adipose tissue	11	56	0.196428571428571
+Number of common colds	2	34	0.0588235294117647
+LDL cholesterol levels	22	84	0.261904761904762
+Serum thyroid-stimulating hormone levels	4	22	0.181818181818182
+Bipolar disorder (body mass index interaction)	6	51	0.117647058823529
+Colorectal adenoma (advanced)	11	29	0.379310344827586
+Breast cancer in childhood cancer survivors treated with less than 10 gray radiotherapy	2	3	0.666666666666667
+Post bronchodilator FEV1	133	1182	0.112521150592217
+Lung function (FEV1/FVC) in asthma (dust mite allergen exposure interaction)	1	2	0.5
+Disease progression in age-related macular degeneration	5	61	0.0819672131147541
+Obsessive-compulsive disorder or autism spectrum disorder	2	13	0.153846153846154
+Response to cytidine analogues (gemcitabine)	4	10	0.4
+Bronchopulmonary dysplasia	4	26	0.153846153846154
+Squamous cell lung carcinoma	7	101	0.0693069306930693
+Parental longevity (mother's age at death)	4	47	0.0851063829787234
+Glycemic traits (pregnancy)	5	10	0.5
+Alcohol consumption (transferrin glycosylation)	3	6	0.5
+Late-onset myasthenia gravis	3	11	0.272727272727273
+Plasma thyroid-stimulating hormone levels	1	10	0.1
+Depression in response to interferon-based therapy in chronic hepatitis C	1	4	0.25
+Bilirubin levels	17	50	0.34
+Ovarian cancer in BRCA2 mutation carriers	1	2	0.5
+Pediatric bone mineral density (spine)	2	15	0.133333333333333
+Hemoglobin	2	13	0.153846153846154
+Total body bone mineral density	29	236	0.122881355932203
+Prevalent atrial fibrillation	1	9	0.111111111111111
+Systolic blood pressure	49	232	0.211206896551724
+Response to radiotherapy in prostate cancer (toxicity, decreased urine stream)	1	8	0.125
+GIP levels in response to oral glucose tolerance test (fasting)	1	2	0.5
+Pediatric bone mineral content (hip)	1	15	0.0666666666666667
+Motion sickness	3	35	0.0857142857142857
+Chronic hepatitis C infection	1	7	0.142857142857143
+Iron status biomarkers (transferrin levels)	2	9	0.222222222222222
+Chronic kidney disease and serum creatinine levels	1	4	0.25
+Educational attainment	18	95	0.189473684210526
+Pulmonary function	14	67	0.208955223880597
+Gestational age at birth in premature rupture of membrane-initiated deliveries (maternal effect)	1	8	0.125
+Esophageal cancer (squamous cell)	2	7	0.285714285714286
+Prostate-specific antigen levels (conditioned on lead SNPs)	3	21	0.142857142857143
+Emphysema-related traits	2	7	0.285714285714286
+Food antigen IgG levels	2	7	0.285714285714286
+Gondoic acid (20:1n-9) levels	1	4	0.25
+Initial pursuit acceleration	8	47	0.170212765957447
+Chin dimples	3	46	0.0652173913043478
+Elevated serum carcinoembryonic antigen levels	3	13	0.230769230769231
+Cardiovascular disease in hypertension (calcium channel blocker interaction)	1	2	0.5
+Coronary atherosclerosis (increased number of diseased vessels) (traffic exposure interaction)	2	15	0.133333333333333
+Amyotrophic lateral sclerosis	15	92	0.16304347826087
+Large B-cell lymphoma	1	2	0.5
+Aging	3	9	0.333333333333333
+Emphysema imaging phenotypes	7	52	0.134615384615385
+Age-related macular degeneration (wet)	1	1	1
+Primary tooth development (time to first tooth eruption)	3	19	0.157894736842105
+Response to efavirenz-containing treatment in HIV 1 infection (virologic failure)	3	35	0.0857142857142857
+Angiotensin-converting enzyme activity	1	2	0.5
+Multiple cancers (lung cancer, gastric cancer, and squamous cell carcinoma)	4	7	0.571428571428571

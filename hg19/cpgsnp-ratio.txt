@@ -1,0 +1,48 @@
+Now chr1 is starting
+chr1	1891801/16418505
+Now chr2 is starting
+chr2	2015241/17818835
+Now chr3 is starting
+chr3	1505097/14628094
+Now chr4 is starting
+chr4	1343510/14165429
+Now chr5 is starting
+chr5	1367667/13195636
+Now chr6 is starting
+chr6	1330836/12459945
+Now chr7 is starting
+chr7	1328822/11762730
+Now chr8 is starting
+chr8	1201642/11321258
+Now chr9 is starting
+chr9	1035018/9094837
+Now chr10 is starting
+chr10	1185578/9780821
+Now chr11 is starting
+chr11	1147749/10104980
+Now chr12 is starting
+chr12	115015/856867
+Now chr13 is starting
+chr13	/
+Now chr14 is starting
+chr14	/
+Now chr15 is starting
+chr15	/
+Now chr16 is starting
+chr16	/
+Now chr17 is starting
+chr17	/
+Now chr18 is starting
+chr18	/
+Now chr19 is starting
+chr19	/
+Now chr20 is starting
+chr20	/
+Now chr21 is starting
+chr21	/
+Now chr22 is starting
+chr22	/
+Now chrX is starting
+chrX	602563/7474351
+Now chrY is starting
+chrY	43792/457195
