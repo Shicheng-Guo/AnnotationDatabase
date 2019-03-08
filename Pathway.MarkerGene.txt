@@ -1,0 +1,33 @@
+MarkerGene	Pathway
+SOD1	Oxidative stress genes
+OXSR1	Oxidative stress genes
+MT1X	Oxidative stress genes
+DUOX2	Oxidative stress genes
+GPX8	Oxidative stress genes
+DUSP1	Oxidative stress genes
+CRYAB	Oxidative stress genes
+DUSP1	MAPK signaling
+JUN	MAPK signaling
+PDGFRA	MAPK signaling
+FOS	MAPK signaling
+JUN	Immune system
+STAT1	Immune system
+STAT2	Immune system
+IRF1	Immune system
+CCRL1	Immune system
+FOS	Immune system
+TRIM21	Immune system
+FOS	Inflammatory response
+IL6	Inflammatory response
+IL8	Inflammatory response
+PTGS1	Inflammatory response
+PTGS2	Inflammatory response
+S100A8	Inflammatory response
+CXCL11	Inflammatory response
+CXCL11	Inflammatory response
+IFIT2	Inflammatory response
+PDCD1LG2	Apoptosis
+CFLAR	Apoptosis
+GPC3	Apoptosis
+FAS	Apoptosis
+XAF1	Apoptosis
