@@ -3,6 +3,8 @@
  * [NCI-60](https://discover.nci.nih.gov/cellminer/loadDownload.do)
 
 ```
+cd \\mcrfnas2\bigdata\Genetic\Projects\shg047\methylation\NCI60\output
+cd /home/guosa/hpc/methylation/NCI60/output
 grep -P '^cg|Probe\sid\s\(' DNA__Illumina_450K_methylation_Beta_values.txt.txt > DNA__Illumina_450K_methylation_Beta_values.txt
 data<-read.table("DNA__Illumina_450K_methylation_Beta_values.txt",sep="\t",head=T,row.names=1)
 newdata<-data[,13:(ncol(data)-1)]
