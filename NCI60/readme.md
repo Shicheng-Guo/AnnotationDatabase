@@ -15,4 +15,11 @@ rownames(output)=RowName
 nci60methdata=output
 save(nci60methdata,file="NCI60-meth450k.beta.RData")
 write.table(output,file="NCI60-meth450k.beta.txt",sep="\t",quote=F,col.names = NA,row.names = T)
+
+cellLines<-names(table(unlist(lapply(colnames(nci60methdata),function(x) unlist(strsplit(x,"[.]"))[1]))))
+for(i in cellLines){
+  beta<-nci60methdata[,grep(i,colnames(nci60methdata))]
+  save(beta,file=paste(i,"beta.RData",sep="."))
+  print(i)
+}
 ```
