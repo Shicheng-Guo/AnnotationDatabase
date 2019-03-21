@@ -18,3 +18,17 @@ cat  HUman_BALL_WGBS.wig.bed.uni.sort >> HUman_BALL_WGBS.wig.bed.uni.sort.UCSC
 head HUman_BALL_WGBS.wig.bed.uni.sort.UCSC
 gzip HUman_BALL_WGBS.wig.bed.uni.sort.UCSC
 ```
+
+AML 
+```
+wget http://smithdata.usc.edu/methbase/data/Akalin-Human-2012/Human_AML/tracks_hg19/Human_AML.meth.bw -O Human_AML_Akalin-Human-2012.meth.bw
+wget http://smithdata.usc.edu/methbase/data/Lund-Human-2014/Human_AML3-Control/tracks_hg19/Human_AML3-Control.meth.bw -O Human_AML3_Lund-Human-2014.meth.bw
+cat  Human_AML*.wig > HUman_AML_WGBS.wig
+grep -v '#' HUman_AML_WGBS.wig > HUman_AML_WGBS.wig.bed
+perl wigAverage.pl HUman_AML_WGBS.wig.bed > HUman_AML_WGBS.wig.bed.uni
+bedtools sort -i HUman_AML_WGBS.wig.bed.uni > HUman_AML_WGBS.wig.bed.uni.sort
+echo 'track type=bedGraph name="AML" description="AML" visibility=full color=227,207,87 altColor=200,100,0 priority=20 maxHeightPixels=128:64:32 visibility=full' > HUman_AML_WGBS.wig.bed.uni.sort.UCSC
+cat  HUman_AML_WGBS.wig.bed.uni.sort >> HUman_AML_WGBS.wig.bed.uni.sort.UCSC
+head HUman_AML_WGBS.wig.bed.uni.sort.UCSC
+gzip HUman_AML_WGBS.wig.bed.uni.sort.UCSC
+```
