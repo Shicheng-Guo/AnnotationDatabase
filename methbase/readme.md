@@ -32,3 +32,31 @@ cat  HUman_AML_WGBS.wig.bed.uni.sort >> HUman_AML_WGBS.wig.bed.uni.sort.UCSC
 head HUman_AML_WGBS.wig.bed.uni.sort.UCSC
 gzip HUman_AML_WGBS.wig.bed.uni.sort.UCSC
 ```
+
+Normal pancrease and pancreatic cancer
+```
+for i in {1..12}
+do
+wget http://smithdata.usc.edu/methbase/data/Thompson-Human-2015/Human_PancreaticCancer$i/tracks_hg19/Human_PancreaticCancer$i.meth.bw &
+done
+wget http://smithdata.usc.edu/methbase/data/Thompson-Human-2015/Human_NormalPancreas1/tracks_hg19/Human_NormalPancreas1.meth.bw
+wget http://smithdata.usc.edu/methbase/data/Thompson-Human-2015/Human_NormalPancreas2/tracks_hg19/Human_NormalPancreas2.meth.bw
+
+cat *_PancreaticCancer*.wig > PANcreaticCancer.wig
+grep -v '#' PANcreaticCancer.wig > PANcreaticCancer.wig.bed
+perl wigAverage.pl PANcreaticCancer.wig.bed > PANcreaticCancer.wig.bed.uni
+bedtools sort -i PANcreaticCancer.wig.bed.uni > PANcreaticCancer.wig.bed.uni.sort
+echo 'track type=bedGraph name="PancreaticCancer" description="_PancreaticCancer" visibility=full color=227,207,87 altColor=200,100,0 priority=20 maxHeightPixels=128:64:32 visibility=full' > PANcreaticCancer.wig.bed.uni.sort.UCSC
+cat  PANcreaticCancer.wig.bed.uni.sort >> PANcreaticCancer.wig.bed.uni.sort.UCSC
+head PANcreaticCancer.wig.bed.uni.sort.UCSC
+gzip PANcreaticCancer.wig.bed.uni.sort.UCSC
+
+cat *_NormalPancreas*.wig > NormalPancreas.wig
+grep -v '#' NormalPancreas.wig > NormalPancreas.wig.bed
+perl wigAverage.pl NormalPancreas.wig.bed > NormalPancreas.wig.bed.uni
+bedtools sort -i NormalPancreas.wig.bed.uni > NormalPancreas.wig.bed.uni.sort
+echo 'track type=bedGraph name="PancreaticCancer" description="_PancreaticCancer" visibility=full color=227,207,87 altColor=200,100,0 priority=20 maxHeightPixels=128:64:32 visibility=full' > PANcreaticCancer.wig.bed.uni.sort.UCSC
+cat  PANcreaticCancer.wig.bed.uni.sort >> PANcreaticCancer.wig.bed.uni.sort.UCSC
+head PANcreaticCancer.wig.bed.uni.sort.UCSC
+gzip PANcreaticCancer.wig.bed.uni.sort.UCSC
+```
