@@ -60,3 +60,49 @@ cat  PANcreaticCancer.wig.bed.uni.sort >> PANcreaticCancer.wig.bed.uni.sort.UCSC
 head PANcreaticCancer.wig.bed.uni.sort.UCSC
 gzip PANcreaticCancer.wig.bed.uni.sort.UCSC
 ```
+PBMC
+```
+wget http://smithdata.usc.edu/methbase/data/Li-PBMC-2010/Human_PBMC/tracks_hg19/Human_PBMC.meth.bw -O Human_PBMC_Li2010.bw &
+wget http://smithdata.usc.edu/methbase/data/Heyn-Human-NewbornCentenarian-2012/Human_PBMC/tracks_hg19/Human_PBMC.meth.bw -O Human_PBMC_Heyn2012.meth.bw &
+wget http://smithdata.usc.edu/methbase/data/Heyn-Human-NewbornCentenarian-2012/Human_CD4T-100yr/tracks_hg19/Human_CD4T-100yr.meth.bw -O Human_CD4T-100yr.meth.bw
+wget http://smithdata.usc.edu/methbase/data/Heyn-Human-NewbornCentenarian-2012/Human_CD4T-Newborn/tracks_hg19/Human_CD4T-Newborn.meth.bw -O 
+wget http://smithdata.usc.edu/methbase/data/Pacis-Human-2015/Human_DendriticCell/tracks_hg19/Human_DendriticCell.meth.bw -O Human_DendriticCell_hg19.meth.bw
+
+cat Human_PBMC_*wig > HUman_PBMC_hg19.wig
+grep -v '#' HUman_PBMC_hg19.wig > HUman_PBMC_hg19.wig.bed
+perl wigAverage.pl HUman_PBMC_hg19.wig.bed > HUman_PBMC_hg19.wig.bed.uni
+bedtools sort -i HUman_PBMC_hg19.wig.bed.uni > HUman_PBMC_hg19.wig.bed.uni.sort
+echo 'track type=bedGraph name="PBMC" description="PBMC" visibility=full color=227,207,87 altColor=200,100,0 priority=20 maxHeightPixels=128:64:32 visibility=full' > HUman_PBMC_hg19.wig.bed.uni.sort.UCSC
+cat  HUman_PBMC_hg19.wig.bed.uni.sort >> HUman_PBMC_hg19.wig.bed.uni.sort.UCSC
+head HUman_PBMC_hg19.wig.bed.uni.sort.UCSC
+gzip HUman_PBMC_hg19.wig.bed.uni.sort.UCSC
+
+cat Human_CD4T*wig > HUman_CD4T_hg19.wig
+grep -v '#' HUman_CD4T_hg19.wig > HUman_CD4T_hg19.wig.bed
+perl wigAverage.pl HUman_CD4T_hg19.wig.bed > HUman_CD4T_hg19.wig.bed.uni
+bedtools sort -i HUman_CD4T_hg19.wig.bed.uni > HUman_CD4T_hg19.wig.bed.uni.sort
+echo 'track type=bedGraph name="CD4+" description="CD4+" visibility=full color=227,207,87 altColor=200,100,0 priority=20 maxHeightPixels=128:64:32 visibility=full' > HUman_CD4T_hg19.wig.bed.uni.sort.UCSC
+cat  HUman_CD4T_hg19.wig.bed.uni.sort >> HUman_CD4T_hg19.wig.bed.uni.sort.UCSC
+head HUman_CD4T_hg19.wig.bed.uni.sort.UCSC
+gzip -f HUman_CD4T_hg19.wig.bed.uni.sort.UCSC
+
+SID="HUman_B_Cell_hg19"
+cat Human_BCell*wig > $SID.wig
+grep -v '#' $SID.wig > $SID.wig.bed
+perl wigAverage.pl $SID.wig.bed > $SID.wig.bed.uni
+bedtools sort -i $SID.wig.bed.uni > $SID.wig.bed.uni.sort
+echo 'track type=bedGraph name="Human_B_Cell" description="Human_B_Cell" visibility=full color=227,207,87 altColor=200,100,0 priority=20 maxHeightPixels=128:64:32 visibility=full' > $SID.wig.bed.uni.sort.UCSC
+cat  $SID.wig.bed.uni.sort >> $SID.wig.bed.uni.sort.UCSC
+head $SID.wig.bed.uni.sort.UCSC
+gzip -f $SID.wig.bed.uni.sort.UCSC
+
+SID="Human_Neutrophil_hg19"
+cat Human_Neut*bw.wig > $SID.wig
+grep -v '#' $SID.wig > $SID.wig.bed
+perl wigAverage.pl $SID.wig.bed > $SID.wig.bed.uni
+bedtools sort -i $SID.wig.bed.uni > $SID.wig.bed.uni.sort
+echo 'track type=bedGraph name="Human_Neutrophil" description="Human_Neutrophil" visibility=full color=227,207,87 altColor=200,100,0 priority=20 maxHeightPixels=128:64:32 visibility=full' > $SID.wig.bed.uni.sort.UCSC
+cat  $SID.wig.bed.uni.sort >> $SID.wig.bed.uni.sort.UCSC
+head $SID.wig.bed.uni.sort.UCSC
+gzip -f $SID.wig.bed.uni.sort.UCSC
+```
