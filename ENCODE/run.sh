@@ -31,3 +31,26 @@ for i in `ls *H3k4me3*.bigWig`
 do
 bigWigToBedGraph $i $i.hg19.bed
 done
+
+for i in `ls *H3k27ac*.bigWig.hg19.bed`
+do
+cat $i >> wgEncodeBroadHistone.H3k27ac.hg19.bed
+done
+
+for i in `ls *H3k4me1*.bigWig.hg19.bed`
+do
+cat $i >> wgEncodeBroadHistone.H3k4me1.hg19.bed
+done
+
+for i in `ls *H3k4me3*.bigWig.hg19.bed`
+do
+cat $i >> wgEncodeBroadHistone.H3k4me3.hg19.bed
+done
+
+for i in `ls *wgEncodeBroadHistone.*.hg19.bed`
+do
+echo $i
+bedtools sort -i $i > $i.sort.bed
+done
+
+
