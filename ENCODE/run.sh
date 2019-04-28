@@ -15,3 +15,19 @@ wget -r -l 1 -nd -e robots=off --reject jpg,html http://hgdownload.soe.ucsc.edu/
 wget -r -l 1 -nd -e robots=off --reject jpg,html http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeRegMarkH3k4me3/
 wget -r -l 1 -nd -e robots=off --reject jpg,html http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeRegTfbsClustered/
 wget -r -l 1 -nd -e robots=off --reject jpg,html http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeRegDnaseClustered/
+
+
+for i in `ls *H3k27ac*.bigWig`
+do
+bigWigToBedGraph $i $i.hg19.bed
+done
+
+for i in `ls *H3k4me1*.bigWig`
+do
+bigWigToBedGraph $i $i.hg19.bed
+done
+
+for i in `ls *H3k4me3*.bigWig`
+do
+bigWigToBedGraph $i $i.hg19.bed
+done
