@@ -54,3 +54,12 @@ bedtools sort -i $i > $i.sort.bed
 done
 
 
+
+for i in `ls *merge.hg19.bed`
+do
+bedtools intersect -wa -a GPL13534_450K_hg19_V2.bed -b $i > GPL13534.$i.overlap.bed
+done
+
+
+
+
