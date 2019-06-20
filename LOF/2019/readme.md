@@ -1,1 +1,1 @@
-16800062 SNPs were annotated with ANNOVAR. 
+[16800062](log.txt) SNPs were annotated with ANNOVAR. 
