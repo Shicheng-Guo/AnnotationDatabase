@@ -1,3 +1,5 @@
+cd /gpfs/home/guosa/hpc/db/Gnomad/exome/aloft-exome-rec
+
 mkdir annovar
 mkdir temp
 for i in {1..22} 
