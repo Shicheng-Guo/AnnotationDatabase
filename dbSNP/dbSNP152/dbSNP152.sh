@@ -9,11 +9,9 @@ zcat dbSNP152.hg19.vcf.bgz > dbSNP152.hg38.vcf.bgz
 
 
 # Step 2: Replace  to chr1,chr2,chr3
-
-
+fixdbSNP152VCF.pl dbSNP152.hg19.vcf dbSNP152.hg19.fix.vcf
 
 # Step 3: Split BigVCF to SmallVCF by Chrosome
-
 mkdir chr
 mkdir temp
 for i in {1..22} X Y
