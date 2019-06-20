@@ -1,3 +1,4 @@
+Table x. Annotation from ANNOVAR to Exome from Gnomad 
      665746 chr10.hg19_multianno.csv
     1044544 chr11.hg19_multianno.csv
      889015 chr12.hg19_multianno.csv
