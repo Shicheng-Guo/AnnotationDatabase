@@ -20,6 +20,8 @@ done
 
 #### Summary the Reslt
 
+cd ~/hpc/db/Gnomad/exome/aloft-exome-rec/aloft
+
 for i in `ls *.lof`
 do
 awk '{print $1,$2,$3,$4,$5}' $i  |sort -u | wc -l
