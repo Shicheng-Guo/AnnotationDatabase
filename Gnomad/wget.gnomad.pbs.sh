@@ -9,6 +9,6 @@ echo \#PBS -m abe  >> $i.job
 echo \#PBS -o $(pwd)/temp/ >>$i.job
 echo \#PBS -e $(pwd)/temp/ >>$i.job
 echo cd $(pwd) >> $i.job
-echo wget gnomad.exomes.r2.1.1.sites.$i.vcf.bgz >> $i.job
+echo wget https://storage.googleapis.com/gnomad-public/release/2.1.1/vcf/exomes/gnomad.exomes.r2.1.1.sites.$i.vcf.bgz >> $i.job
 qsub $i.job
 done
