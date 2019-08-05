@@ -2,7 +2,7 @@
 ## Annotation Database
 
 
-USAGE: Build Annotation For human Genome or Epigenome.
+USAGE: Build Annotation For human Genome or Epigenome
 
 Basic information should be included:
 
