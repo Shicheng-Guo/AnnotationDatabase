@@ -1,4 +1,8 @@
-[miRNA.mature.hg19.bed]()
+* download Gnomad genome-wide SNP dataset
+* download miRNA seed region bed: [miRNA.mature.hg19.bed]()
+* identified all the miRNA-SNPs and MAF>0.01 in East Asian
+* Finally [95 SNPs](miRNAcommonSNP.txt) were identified. 
+
 ```
 cd /gpfs/home/guosa/hpc/db/Gnomad/genome
 mkdir temp
