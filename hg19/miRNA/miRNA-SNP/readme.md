@@ -1,4 +1,4 @@
-miRNA.mature.hg19.bed
+[miRNA.mature.hg19.bed]()
 ```
 mkdir temp
 for i in {1..22} X Y MT
