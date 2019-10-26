@@ -1,4 +1,4 @@
-# common miRNA-SNPs in East Asian Population
+# Common miRNA-SNPs in East Asian Population
 
 * Download Gnomad genome-wide SNP dataset
 * Download miRNA seed region bed: [miRNA.mature.hg19.bed]()
