@@ -1,3 +1,5 @@
+# common miRNA-SNPs in East Asian Population
+
 * Download Gnomad genome-wide SNP dataset
 * Download miRNA seed region bed: [miRNA.mature.hg19.bed]()
 * Identified all the miRNA-SNPs and MAF>0.01 in East Asian Population
