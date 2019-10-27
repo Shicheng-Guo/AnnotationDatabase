@@ -4,6 +4,7 @@
 * Download miRNA seed region bed: [miRNA.mature.hg19.bed]()
 * Identified all the miRNA-SNPs and MAF>0.01 in East Asian Population, Finally [95 SNPs](miRNAcommonSNP.txt) were identified. 
 * Identified all the miRNA-SNPs and 0.01>MAF>0.001 in East Asian Population, Finally [117 SNPs](./rareAllele/miRNAcommonSNP.txt) were identified. 
+* In order to do sex imputation, we need at least one chrX SNP, therefore, 95+117 SNPs were saved [here]()
 
 ```
 cd /gpfs/home/guosa/hpc/db/Gnomad/genome
