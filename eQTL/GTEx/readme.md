@@ -8,5 +8,6 @@ wget https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/eQ
 perl eqtl2matrix.pl > eqtl.v8.txt
 ```
 
-Question:`232
-2
+Question:
+
+* rs17632542 showed in GETx website, however not in downloaded V8_eQTL files. Why?
