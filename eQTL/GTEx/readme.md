@@ -1,4 +1,4 @@
-# eQTL to matrix
+# eQTL-V8 to data.matrix
 ```
 wget https://storage.googleapis.com/gtex_analysis_v8/single_tissue_qtl_data/GTEx_Analysis_v8_eQTL.tar
 tar xvf GTEx_Analysis_v8_eQTL.tar
