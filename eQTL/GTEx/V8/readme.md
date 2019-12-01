@@ -1,4 +1,4 @@
-## GTEx V8 - 2019/11/30
+## GTEx V8 - 2019/11/30 - Shicheng Guo
 
 This repository contains notebooks and scripts for reproducing analyses and figures from the paper [The GTEx Consortium atlas of genetic regulatory effects across human tissues](https://www.biorxiv.org/content/10.1101/787903v1).
 
