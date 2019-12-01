@@ -2,7 +2,7 @@
 # tar xvf GTEx_Analysis_v8_eQTL.tar
 # cd GTEx_Analysis_v8_eQTL
 # gunzip *.gz  
-# wget 
+# wget https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/eQTL/GTEx/eqtl2matrix.pl
 # perl eqtl2matrix.pl > eqtl.v8.txt
 
 use strict;
