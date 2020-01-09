@@ -1,4 +1,3 @@
-# https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL16304
 use Cwd;
 use strict;
 my $GPL16304=shift @ARGV;

@@ -1,0 +1,3 @@
+#/bin/bash
+grep -Ff $1 /gpfs/home/guosa/hpc/db/hg19/refGene.hg19.bed
+

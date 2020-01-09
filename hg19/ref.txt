@@ -1,1 +1,249 @@
-a
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.0K Mar  8  2009 hg19.chrom.sizes
+1.1G -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  905M Mar 20  2009 chromFa.hg19.tar.gz
+562K -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  273K Jan 10  2011 recombRate.txt
+325M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  278M May  3  2011 tfbsConsSites.txt
+ 74K -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   23K May  3  2011 tfbsConsFactors.txt
+240M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  206M Jun 10  2013 wgEncodeRegTfbsClusteredWithCellsV3.bed
+286M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  245M Aug 16  2013 wgEncodeRegTfbsClusteredV3.bed
+506K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  223K Jan  1  2014 hg19ToHg38.over.chain.gz
+1.3M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  949K Apr 24  2016 knownToWikipedia.txt
+ 37M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   32M Sep 25  2016 metaDb.txt
+1.3G -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.2G Mar 20  2017 Homo_sapiens.GRCh37.87.gtf
+ 45G -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   39G Aug 29  2017 snp150.txt
+6.4G -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  5.5G Aug 29  2017 snp150Common.txt
+6.4G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  5.5G Apr  9  2018 hg19.commonsnp150
+ 25M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   21M Apr  9  2018 SNPs_Table_Before_TechnicalFilter.txt
+261M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  223M Apr 10  2018 CoreExome_24v1p2_A1_Anno.Guo.2018.March.txt
+ 18G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   15G Apr 23  2018 dbSNP151.hg19.vcf.bgz
+1.8G -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.5G Apr 23  2018 common_all_20180423.vcf.gz
+2.7M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.2M Apr 23  2018 common_all_20180423.vcf.gz.tbi
+ 26K -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users    72 Jun 14  2018 common_all_20180531_papu.vcf.gz.tbi
+ 26K -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users    66 Jun 14  2018 common_all_20180531_papu.vcf.gz.md5
+ 26K -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.4K Jun 14  2018 common_all_20180531_papu.vcf.gz
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   699 Jun 20  2018 FindCpGSNP.pl
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   623 Jun 20  2018 findcgsnp.pl
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users    42 Jun 20  2018 rs35499948.txt
+2.8M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.2M Jun 20  2018 CpGSNP.sort.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users    69 Jun 20  2018 DRB1.bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users    84 Jun 20  2018 DRB1
+473M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  404M Jun 20  2018 hg19.CpG.bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   247 Jul 17  2018 check.pl
+ 45M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   39M Jul 17  2018 gwas_catalog_v1.0-associations_e92_r2018-06-25.tsv
+1.1M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  743K Jul 17  2018 GWAS-Catlog.txt
+778K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  491K Jul 17  2018 Gwas-catlog.clean.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   897 Jul 18  2018 cpgsnp-ratio.txt
+718M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  614M Jul 18  2018 hg19_commonsnp150_trim.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   963 Jul 18  2018 cpgallelecommon.rlt.statistic.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   771 Jul 18  2018 allSNP150.statistic.rlt.txt
+1.5K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users     0 Jul 18  2018 commonSNP_hg19_v1.cluster.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   314 Jul 18  2018 allSNP150.pl
+986K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  701K Jul 18  2018 commonSNP_hg19_v1_cluster.bed
+ 78M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   66M Jul 18  2018 commonSNP_hg19_v1_sort.txt
+ 89M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   76M Jul 18  2018 commonSNP_hg19_v1_sort_cluster.bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   744 Jul 18  2018 bedtoolsClusterSummary.pl
+ 18M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   15M Jul 18  2018 commonSNP_hg19_v1_sort_cluster.bed.summary
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users    32 Jul 18  2018 target.bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users    32 Jul 18  2018 target2.bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.1K Jul 18  2018 cpgallele.pl
+ 81M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   69M Jul 18  2018 commonSNP_hg19_v1.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   429 Jul 18  2018 Gwas-catlog.pl
+3.4M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.9M Jul 18  2018 GWAS_Significant_RS.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   489 Jul 18  2018 capture.pl
+290K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   95K Jul 18  2018 Disease_GWAS_CpG-SNP.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.2K Jul 19  2018 cpgallelecommon.pl
+ 34K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users  3.8K Jul 19  2018 illumina
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.2K Jul 19  2018 aptallelecommon.pl
+104M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   89M Jul 19  2018 commonAT-SNP_hg19_v1.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.2K Jul 19  2018 gpcallelecommon.pl
+ 60M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   51M Jul 19  2018 commonGC-SNP_hg19_v1.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.2K Jul 19  2018 Tpaallelecommon.pl
+ 76M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   65M Jul 19  2018 commonTA-SNP_hg19_v1.txt
+290K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users   36K Jul 20  2018 ucsc
+2.0K drwxrwx--- 3 MFLDCLIN\guosa  MFLDCLIN\domain^users    59 Jul 23  2018 bismark
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   917 Jul 25  2018 gwas.pl
+2.5M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.0M Jul 25  2018 GWAS-SNP-List_hg19_full.bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.1K Jul 25  2018 gwas2.pl
+506K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  220K Jul 25  2018 GWAS-SNP-List_hg19.bed
+2.0K drwxrwx--- 4 MFLDCLIN\guosa  MFLDCLIN\domain^users    81 Jul 27  2018 plan3
+238M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  204M Jul 28  2018 GPL13534_450K_hg19_11288.txt
+ 87M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   74M Jul 28  2018 GPL16304-47833.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   635 Jul 28  2018 GPL16304.pl
+ 30M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   25M Jul 28  2018 GPL13534_450K_hg19.bed
+ 98K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   26K Jul 31  2018 head.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   421 Jul 31  2018 heat2.txt
+ 34K drwxrwx--- 3 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.6K Jul 31  2018 mask
+1.1G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  916M Jul 31  2018 GTEx_Analysis_v7_eQTL.tar
+ 66K drwxrwx--- 5 MFLDCLIN\guosa  MFLDCLIN\domain^users  9.9K Aug  2  2018 plan2
+194K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   62K Aug  2  2018 GWAS-SNP-List_hg19.bed.uni
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.4K Aug  2  2018 gwas_trim.pl
+2.5M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.0M Aug  2  2018 GWAS-SNP-List_hg19_full.txt
+578K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  291K Aug  2  2018 GWAS-SNP-List_hg19_full.txt.uni
+602K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  317K Aug  2  2018 GWAS-SNP-List_hg19_full.txt.uni.bedgraph
+509M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  435M Aug  4  2018 repeat.hg19.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   494 Aug  4  2018 repeat.trim.pl
+265M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  227M Aug  4  2018 repeat.hg19.bed
+2.3M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.8M Aug  4  2018 CpGI.hg19.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   835 Aug  4  2018 cpgisland.pl
+ 34K drwxrwx--- 3 MFLDCLIN\guosa  MFLDCLIN\domain^users   199 Aug  7  2018 wgbs
+2.0K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users    76 Aug  7  2018 roadmap
+718M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  614M Aug 12  2018 commonsnp150.hg19.bed
+1.8M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.5M Aug 17  2018 RA-OA.DMER.GRCH37.bed
+242K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   73K Aug 20  2018 DAC_Blacklist_GRCH37bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   365 Aug 21  2018 rs2bed.pl
+ 23M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   20M Aug 22  2018 hg19_RefSeqGene
+ 20M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   17M Aug 22  2018 NCBIRefGene_GRCH37
+ 34K drwxrwx--- 4 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.7K Sep  1  2018 CpGs
+ 43M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   37M Sep  2  2018 LINE-1.hg19.bed
+ 52M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   44M Sep  2  2018 LINE1.hg19.bed
+ 34K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users   938 Sep  2  2018 window2000
+329M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  281M Sep  2  2018 hg19.win2k.bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.0K Sep 24  2018 epiallele.pl
+294M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  251M Oct 11  2018 ClinPred.Score.hg19.bed
+338K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  110K Oct 13  2018 miRNA.mature.hg19.bed
+218K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   70K Oct 18  2018 miRNA.pre_mature.hg19.bed
+ 15G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   13G Oct 25  2018 db
+ 34K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users   320 Nov  2  2018 annovar
+6.4G -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  5.5G Nov  5  2018 commonSNP150.hg19
+ 66K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users  9.0K Nov  5  2018 GTEx_Analysis_v7_eQTL
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   379 Nov  5  2018 bed2anno.pl
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   450 Nov  5  2018 bed2avinput.pl
+244M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  209M Nov  5  2018 cpgSNP.hg19.bed
+385M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  329M Nov  5  2018 cpgSNP.hg19.bed.avinput.2.hg19_multianno.csv
+ 71M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   61M Nov  5  2018 CpG-SNP_eQTL.RData
+726M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  621M Nov  5  2018 CpG-SNP_eQTL_Functional_analysis.txt
+845M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  723M Nov  5  2018 cpgSNP.hg19.bed.avinput.hg19_multianno.csv
+ 12M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  9.8M Nov  5  2018 hg19_cpgSNP_eQTL.V6.txt
+ 13M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   11M Nov  5  2018 hg19_cpgSNP_eQTL.V6.txt.hg19_multianno.csv
+ 13M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   11M Nov  5  2018 hg19_cpgSNP_eQTL.V6_TFBS.bed.hg19_multianno.csv
+ 20M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   17M Nov  5  2018 hg19_cpgSNP_eQTL.V6.bed.hg19_multianno.csv
+9.9M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  8.4M Nov  5  2018 cpgSNP-eQTL-GWAS.xlsx
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   517 Nov  5  2018 split.pl
+ 12M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  9.9M Nov  5  2018 cpgSNP.hg19.bed.V12.avinput
+ 17M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   14M Nov  5  2018 cpgSNP.hg19.bed.V12.avinput-remove.knownGene.variant_function
+1.2M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  855K Nov  5  2018 cpgSNP.hg19.bed.V12.avinput-remove.knownGene.exonic_variant_function.orig
+1.5K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users     0 Nov  5  2018 cpgSNP.hg19.bed.V12.avinput-remove.knownGene.fa
+1.2M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  860K Nov  5  2018 cpgSNP.hg19.bed.V12.avinput-remove.knownGene.exonic_variant_function
+602K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  313K Nov  5  2018 cpgSNP.hg19.bed.V12.avinput-remove.hg19_tfbsConsSites
+ 20M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   17M Nov  5  2018 cpgSNP.hg19.bed.V12.avinput-remove.hg19_multianno.csv
+2.9M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.3M Nov  5  2018 refGene.hg19.V2.bed
+ 42M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   36M Nov  5  2018 cpgSNP-eQTL.V12.txt
+ 45M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   38M Nov  5  2018 cpgSNP.hg19.bed.V12.avinput.hg19_multianno.csv
+ 11G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  8.7G Nov  7  2018 allSNP150.hg19.bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   542 Nov  7  2018 hg19Toavinput.pl
+ 34K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.5K Nov  9  2018 snp150annovar
+ 24M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   20M Nov 25  2018 refGene.txt
+101G -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   86G Dec  9  2018 snp151.txt
+ 26K -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users    55 Jan 24  2019 GCF_000001405.25.bgz.md5.1
+ 26K -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users    55 Jan 24  2019 GCF_000001405.25.bgz.md5
+1.8M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.5M Feb  5  2019 CpGI.hg19.bed
+9.6M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  8.1M Feb  5  2019 BUR.GRCH37.bed
+9.8M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  8.2M Feb  5  2019 BUR.GRCH37.hg19.bed
+ 66K drwxrwx--- 3 MFLDCLIN\guosa  MFLDCLIN\domain^users   11K Feb  6  2019 CpGI
+9.6M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  8.0M Feb  8  2019 CpGISS.hg19.bed
+4.1M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  3.3M Feb  8  2019 CpGI_Shelf.hg19.bed
+4.1M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  3.3M Feb  8  2019 CpGI_Shore.hg19.bed
+9.6M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  8.0M Feb  8  2019 CpGISF.hg19.bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   185 Feb 11  2019 cytoband.pl
+ 98K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   25K Feb 11  2019 cytoband.hg19.bed
+ 70G -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   60G Feb 12  2019 gnomad.exomes.r2.1.sites.vcf.bgz
+1.2M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  923K Feb 12  2019 gnomad.exomes.r2.1.sites.vcf.bgz.tbi
+543G -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  465G Feb 12  2019 gnomad.genomes.r2.1.sites.vcf.bgz
+3.3M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.8M Feb 12  2019 gnomad.genomes.r2.1.sites.vcf.bgz.tbi
+ 18G -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   15G Feb 12  2019 allSNP151.vcf.gz
+3.3M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.7M Feb 12  2019 allSNP151.vcf.gz.tbi
+ 27G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   23G Feb 12  2019 allSNP151.hg19.bed
+ 11G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  9.2G Feb 14  2019 gnomad.hg19.bed
+ 66K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users  7.8K Feb 14  2019 fa
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users    70 Feb 15  2019 symbol2bed
+ 26K -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   349 Feb 15  2019 60.GWAS.Meta.Gene.txt
+ 50K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   16K Feb 15  2019 60.GWAS.Meta.bloodPressure.Gene.bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   224 Feb 15  2019 refGeneTrim.pl
+3.8M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  3.1M Feb 15  2019 refGene.hg19.bed
+7.1G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  6.1G Feb 15  2019 cpgASNP.hg19.bed
+246M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  210M Feb 15  2019 cpgCSNP.hg19.bed
+162K drwxrwx--- 8 MFLDCLIN\guosa  MFLDCLIN\domain^users   24K Feb 19  2019 1000Genome
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.0K Feb 24  2019 hg19.chrom.sizes.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users    27 Feb 24  2019 FGF6.hg19.bed
+ 29G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   25G Feb 25  2019 allSNP151.hg19.sort.bed
+1.6G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.4G Mar  5  2019 gencode.v29lift37.annotation.gtf
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  3.2K Mar  5  2019 ref2bed.pl
+107M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   91M Mar  5  2019 refGeneV2.hg19.bed
+1.3M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  981K Mar  8  2019 GeneSymbol2AllAliasName.txt
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   731 Mar  8  2019 Textmining2Symbol.pl
+3.1G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.7G Apr  2  2019 queries.txt
+2.0K drwxrwx--- 2 MFLDCLIN\rfrahm MFLDCLIN\domain^users    31 Apr  4  2019 responses
+ 30M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   25M Apr  7  2019 GPL13534_450K_hg19_V2.bed
+ 12M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  9.4M Apr  7  2019 GPL13534_450K_hg19_PBMC_BUR.bed
+245M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  209M Apr 28  2019 wgEncodeRegDnaseClusteredV3.hg19.bed
+ 34K drwxrwx--- 3 MFLDCLIN\guosa  MFLDCLIN\domain^users  6.6K Apr 28  2019 H3k27ac
+643M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  550M Apr 28  2019 wgEncodeBroadHistone.H3k27ac.merge.hg19.bed
+659M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  563M Apr 28  2019 wgEncodeBroadHistone.H3k4me1.merge.hg19.bed
+736M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  630M Apr 28  2019 wgEncodeBroadHistone.H3k4me3.merge.hg19.bed
+286M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  245M Apr 28  2019 wgEncodeRegTfbsClusteredV3.merge.hg19.bed
+245M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  209M Apr 28  2019 wgEncodeRegDnaseClusteredV3.merge.hg19.bed
+9.8M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  8.2M Apr 28  2019 BUR.GRCH37.merge.hg19.bed
+ 50M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   43M Apr 28  2019 GPL13534.BUR.GRCH37.merge.hg19.bed.overlap.bed
+147M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  126M Apr 28  2019 GPL13534.wgEncodeBroadHistone.H3k27ac.merge.hg19.bed.overlap.bed
+156M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  134M Apr 28  2019 GPL13534.wgEncodeBroadHistone.H3k4me1.merge.hg19.bed.overlap.bed
+165M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  141M Apr 28  2019 GPL13534.wgEncodeBroadHistone.H3k4me3.merge.hg19.bed.overlap.bed
+ 20M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   17M Apr 28  2019 GPL13534.wgEncodeRegDnaseClusteredV3.merge.hg19.bed.overlap.bed
+266M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  228M Apr 28  2019 GPL13534.wgEncodeRegTfbsClusteredV3.merge.hg19.bed.overlap.bed
+802M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  685M Apr 28  2019 GPL13534.Tfbs.BUR.H3k27ac.H3k4me1.H3k4me3.ClusteredV3.bed
+ 14M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   12M Apr 28  2019 GPL13534.BUR.GRCH37.merge.hg19.bed.overlap.bed.uni.bed
+ 30M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   25M Apr 28  2019 GPL13534.wgEncodeBroadHistone.H3k27ac.merge.hg19.bed.overlap.bed.uni.bed
+ 30M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   25M Apr 28  2019 GPL13534.wgEncodeBroadHistone.H3k4me1.merge.hg19.bed.overlap.bed.uni.bed
+ 30M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   25M Apr 28  2019 GPL13534.wgEncodeBroadHistone.H3k4me3.merge.hg19.bed.overlap.bed.uni.bed
+ 20M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   17M Apr 28  2019 GPL13534.wgEncodeRegDnaseClusteredV3.merge.hg19.bed.overlap.bed.uni.bed
+ 18M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   15M Apr 28  2019 GPL13534.wgEncodeRegTfbsClusteredV3.merge.hg19.bed.overlap.bed.uni.bed
+7.2M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  6.1M Apr 28  2019 GPL13534.RegulatoryLoci.txt
+ 22M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   19M May  5  2019 ExomeChip_SNPsInfo_hg19.txt
+ 28M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   24M May  5  2019 ExomeChip_SNPsInfo_sort_hg19.txt
+ 54M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   46M May  6  2019 FinalRelease_QC_20140311_Team1_Marshfield.bim.hg19.bed
+ 30M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   25M May  6  2019 Illumina_CoreExome_Beadchip.hg19.exm2rs.bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users    31 May  7  2019 PAX2
+8.7M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  7.4M May 31  2019 GPL13534_450K_hg19.bed.RData
+ 28M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   24M May 31  2019 GPL13534_450K_hg19_V3.bed
+ 34K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.1K Jun  6  2019 ALoFT
+1.3M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users 1017K Jun 13  2019 refGene.hg19.VCF.bed
+690K -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  405K Jun 13  2019 refGene.hg19.VCF.sort.bed.gz
+458K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  193K Jun 13  2019 refGene.hg19.VCF.sort.bed.gz.tbi
+ 15G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   13G Jun 19  2019 dbSNP152.hg19.vcf.bgz
+102G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   87G Jun 19  2019 dbSNP152.hg19.vcf
+3.4M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.8M Jun 19  2019 dbSNP152.hg19.vcf.bgz.tbi
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   562 Jun 19  2019 fixdbSNP152VCF.pl
+2.0K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users     0 Jun 19  2019 chr
+ 15G -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   13G Jun 19  2019 dbSNP152.hg19.fix.vcf.gz
+2.0K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users     0 Jun 19  2019 dbSNP151
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  6.0K Jun 19  2019 dbSNP152.hg19.chr.txt
+ 34K drwxrwx--- 4 MFLDCLIN\guosa  MFLDCLIN\domain^users  3.5K Jun 25  2019 beagle
+ 34K drwxrwx--- 3 MFLDCLIN\guosa  MFLDCLIN\domain^users   859 Jun 26  2019 cpgSNP
+ 50K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   13K Aug 14 18:07 sigplink.hg19.bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  4.8K Aug 28 19:06 MUC.bed
+ 18G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   15G Aug 28 23:14 All_20180423.hg19.vcf.gz
+3.3M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.7M Aug 28 23:14 All_20180423.hg19.vcf.gz.tbi
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users    54 Aug 28 23:14 All_20180423.vcf.gz.md5
+ 50K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   12K Aug 28 23:50 hg19.dict
+ 98K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   32K Aug 29 15:57 dbSNP152.hg19.log
+ 18G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   15G Aug 29 16:01 dbSNP152.hg19.map
+ 14M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   12M Aug 29 16:01 dbSNP152.hg19.ped
+ 42M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   36M Aug 29 16:01 dbSNP152.hg19.recode.vcf
+2.3M -rwxrwxr-- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  1.8M Aug 30 01:40 refGene_hg19_TSS.bed
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  3.6K Aug 31 02:45 hg19.contig.txt
+ 99G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   85G Aug 31 03:47 dbSNP152.GSC.hg19.vcf
+ 34K drwxrwx--- 3 MFLDCLIN\guosa  MFLDCLIN\domain^users  2.2K Aug 31 21:04 dbSNP152
+2.0K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users   216 Sep 17 20:19 dbSNP
+ 34K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users   257 Oct  1 16:41 bowtie2
+615M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  526M Nov  9 18:19 GPL21145_MethylationEPIC_15073387_v-1-0.csv
+ 34M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   29M Nov  9 19:08 MethylationEPIC.hg19.sort.bed
+ 64M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   55M Nov  9 19:09 MethylationEPIC.hg19.bed
+ 25M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   21M Nov 30 00:23 m6ASNP.db147.hg19.sort.bed
+ 25M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   21M Nov 30 00:45 m6ASNP.db147.hg19.uni.txt
+3.5G -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  3.0G Dec  5 16:22 hg19.fa
+ 26K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  3.5K Dec  5 16:22 hg19.fa.fai
+ 34K drwxrwx--- 2 MFLDCLIN\guosa  MFLDCLIN\domain^users   468 Dec 18 23:33 STAR
+698K -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users  410K Dec 18 23:34 Log.out
+ 13M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   11M Jan  5 15:45 ENSG.hg19.bed
+ 52M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   44M Jan  5 15:45 ENSG.hg19.txt
+ 25M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   21M Jan  5 15:45 ENST2Symbol.hg19.txt
+ 14M -rwxrwx--- 1 MFLDCLIN\guosa  MFLDCLIN\domain^users   11M Jan  5 15:45 ENST.hg19.bed
+

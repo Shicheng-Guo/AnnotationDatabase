@@ -1,0 +1,595 @@
+
+VCFtools - 0.1.17
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf dbSNP152.GSC.hg19.vcf
+	--out dbSNP152.hg19
+	--plink
+
+Warning: Expected at least 2 parts in INFO entry: ID=SAO,Number=1,Type=Integer,Description="Variant Allele Origin: 0 - unspecified, 1 - Germline, 2 - Somatic, 3 - Both">
+Warning: Expected at least 2 parts in INFO entry: ID=SAO,Number=1,Type=Integer,Description="Variant Allele Origin: 0 - unspecified, 1 - Germline, 2 - Somatic, 3 - Both">
+Warning: Expected at least 2 parts in INFO entry: ID=SAO,Number=1,Type=Integer,Description="Variant Allele Origin: 0 - unspecified, 1 - Germline, 2 - Somatic, 3 - Both">
+Warning: Expected at least 2 parts in INFO entry: ID=SSR,Number=1,Type=Integer,Description="Variant Suspect Reason Codes (may be more than one value added together) 0 - unspecified, 1 - Paralog, 2 - byEST, 4 - oldAlign, 8 - Para_EST, 16 - 1kg_failed, 1024 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=SSR,Number=1,Type=Integer,Description="Variant Suspect Reason Codes (may be more than one value added together) 0 - unspecified, 1 - Paralog, 2 - byEST, 4 - oldAlign, 8 - Para_EST, 16 - 1kg_failed, 1024 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=SSR,Number=1,Type=Integer,Description="Variant Suspect Reason Codes (may be more than one value added together) 0 - unspecified, 1 - Paralog, 2 - byEST, 4 - oldAlign, 8 - Para_EST, 16 - 1kg_failed, 1024 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=SSR,Number=1,Type=Integer,Description="Variant Suspect Reason Codes (may be more than one value added together) 0 - unspecified, 1 - Paralog, 2 - byEST, 4 - oldAlign, 8 - Para_EST, 16 - 1kg_failed, 1024 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=SSR,Number=1,Type=Integer,Description="Variant Suspect Reason Codes (may be more than one value added together) 0 - unspecified, 1 - Paralog, 2 - byEST, 4 - oldAlign, 8 - Para_EST, 16 - 1kg_failed, 1024 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=SSR,Number=1,Type=Integer,Description="Variant Suspect Reason Codes (may be more than one value added together) 0 - unspecified, 1 - Paralog, 2 - byEST, 4 - oldAlign, 8 - Para_EST, 16 - 1kg_failed, 1024 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=FREQ,Number=.,Type=String,Description="An ordered list of allele frequencies as reported by various genomic studies, starting with the reference allele followed by alternate alleles as ordered in the ALT column. When not already in the dbSNP allele set, alleles from the studies are added to the ALT column.  The minor allele, which was previuosly reported in VCF as the GMAF, is the second largest value in the list.  This is the GMAF reported on the RefSNP and EntrezSNP pages and VariationReporter">
+Warning: Expected at least 2 parts in INFO entry: ID=FREQ,Number=.,Type=String,Description="An ordered list of allele frequencies as reported by various genomic studies, starting with the reference allele followed by alternate alleles as ordered in the ALT column. When not already in the dbSNP allele set, alleles from the studies are added to the ALT column.  The minor allele, which was previuosly reported in VCF as the GMAF, is the second largest value in the list.  This is the GMAF reported on the RefSNP and EntrezSNP pages and VariationReporter">
+Warning: Expected at least 2 parts in INFO entry: ID=FREQ,Number=.,Type=String,Description="An ordered list of allele frequencies as reported by various genomic studies, starting with the reference allele followed by alternate alleles as ordered in the ALT column. When not already in the dbSNP allele set, alleles from the studies are added to the ALT column.  The minor allele, which was previuosly reported in VCF as the GMAF, is the second largest value in the list.  This is the GMAF reported on the RefSNP and EntrezSNP pages and VariationReporter">
+Warning: Expected at least 2 parts in INFO entry: ID=FREQ,Number=.,Type=String,Description="An ordered list of allele frequencies as reported by various genomic studies, starting with the reference allele followed by alternate alleles as ordered in the ALT column. When not already in the dbSNP allele set, alleles from the studies are added to the ALT column.  The minor allele, which was previuosly reported in VCF as the GMAF, is the second largest value in the list.  This is the GMAF reported on the RefSNP and EntrezSNP pages and VariationReporter">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNVI,Number=.,Type=String,Description="Variant Identifiers provided and maintained by organizations outside of NCBI, such as OMIM.  Source and id separated by colon (:).  Each identifier is separated by a vertical bar (|)">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNSIG,Number=.,Type=String,Description="Variant Clinical Significance, 0 - Uncertain significance, 1 - not provided, 2 - Benign, 3 - Likely benign, 4 - Likely pathogenic, 5 - Pathogenic, 6 - drug response, 8 - confers sensitivity, 9 - risk-factor, 10 - association, 11 - protective, 12 - conflict, 13 - affects, 255 - other">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNDISDB,Number=.,Type=String,Description="Variant disease database name and ID, separated by colon (:)">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNREVSTAT,Number=.,Type=String,Description="ClinVar Review Status: no_assertion - No asserition provided by submitter, no_criteria - No assertion criteria provided by submitter, single - Classified by single submitter, mult - Classified by multiple submitters, conf - Criteria provided conflicting interpretations, exp - Reviewed by expert panel, guideline - Practice guideline">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNREVSTAT,Number=.,Type=String,Description="ClinVar Review Status: no_assertion - No asserition provided by submitter, no_criteria - No assertion criteria provided by submitter, single - Classified by single submitter, mult - Classified by multiple submitters, conf - Criteria provided conflicting interpretations, exp - Reviewed by expert panel, guideline - Practice guideline">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNREVSTAT,Number=.,Type=String,Description="ClinVar Review Status: no_assertion - No asserition provided by submitter, no_criteria - No assertion criteria provided by submitter, single - Classified by single submitter, mult - Classified by multiple submitters, conf - Criteria provided conflicting interpretations, exp - Reviewed by expert panel, guideline - Practice guideline">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNREVSTAT,Number=.,Type=String,Description="ClinVar Review Status: no_assertion - No asserition provided by submitter, no_criteria - No assertion criteria provided by submitter, single - Classified by single submitter, mult - Classified by multiple submitters, conf - Criteria provided conflicting interpretations, exp - Reviewed by expert panel, guideline - Practice guideline">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNREVSTAT,Number=.,Type=String,Description="ClinVar Review Status: no_assertion - No asserition provided by submitter, no_criteria - No assertion criteria provided by submitter, single - Classified by single submitter, mult - Classified by multiple submitters, conf - Criteria provided conflicting interpretations, exp - Reviewed by expert panel, guideline - Practice guideline">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNREVSTAT,Number=.,Type=String,Description="ClinVar Review Status: no_assertion - No asserition provided by submitter, no_criteria - No assertion criteria provided by submitter, single - Classified by single submitter, mult - Classified by multiple submitters, conf - Criteria provided conflicting interpretations, exp - Reviewed by expert panel, guideline - Practice guideline">
+Warning: Expected at least 2 parts in INFO entry: ID=CLNACC,Number=.,Type=String,Description="For each allele (comma delimited), this is a pipe-delimited list of the Clinvar RCV phenotype accession.version strings associated with that allele.">
+After filtering, kept 1 out of 1 Individuals
+Writing PLINK PED and MAP files ... 
+	PLINK: Only outputting biallelic loci.
+
+Unrecognized values used for CHROM: NT_113878 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113885 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113888 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113889 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113891 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113901 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113907 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113909 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113911 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113914 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113915 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113916 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113921 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113923 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113930 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113941 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113943 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113945 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113947 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113948 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113949 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113950 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_113961 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167207 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167208 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167209 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167210 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167211 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167212 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167213 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167214 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167215 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167216 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167217 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167218 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167219 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167220 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167221 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167222 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167223 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167224 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167225 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167226 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167227 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167228 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167229 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167230 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167231 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167232 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167233 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167234 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167235 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167236 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167237 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167238 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167239 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167240 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167241 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167242 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167243 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167244 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167245 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167246 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167247 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167248 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167249 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167250 - Replacing with 0.
+
+Unrecognized values used for CHROM: NT_167251 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315903 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315904 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315905 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315906 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315907 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315908 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315909 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315910 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315911 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315912 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315913 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315914 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315915 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315916 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315917 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315918 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315919 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315920 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315921 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315922 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315923 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315924 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315925 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315926 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315927 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315928 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315929 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315930 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315931 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315932 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315933 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315934 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315935 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315936 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315937 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315938 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315939 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315940 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315941 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315942 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315943 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315944 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315945 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315946 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315947 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315948 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315949 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315950 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315951 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315952 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315953 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315954 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315955 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315956 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315957 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315958 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315959 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315960 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315961 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315962 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315963 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315964 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315965 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315966 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315967 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315968 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315969 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315970 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315971 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003315972 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571030 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571031 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571032 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571033 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571034 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571035 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571036 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571037 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571038 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571039 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571040 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571041 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571042 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571043 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571045 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571046 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571047 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571048 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571049 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571050 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571051 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571052 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571053 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571054 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571055 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571056 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571057 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571058 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571059 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571060 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571061 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571063 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003571064 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871055 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871056 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871057 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871058 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871059 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871060 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871061 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871062 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871063 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871064 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871065 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871066 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871067 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871068 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871069 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871070 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871071 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871072 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871073 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871074 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871075 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871076 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871077 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871078 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871079 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871080 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871081 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871082 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871083 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871084 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871085 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871086 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871087 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871088 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871089 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871090 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871091 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871092 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871093 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871094 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871095 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871096 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871098 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871099 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871100 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871101 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871102 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_003871103 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070863 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070864 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070865 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070866 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070867 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070868 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070869 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070870 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070871 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070872 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070873 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070874 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070875 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070876 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070877 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070878 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070879 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070880 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070881 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070882 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070883 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070884 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070885 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070886 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070887 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070888 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070889 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070890 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070891 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070892 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004070893 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004166862 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004166863 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004166864 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004166865 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004166866 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004504299 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004504300 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004504301 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004504302 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004504303 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004504304 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004504305 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004775426 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004775427 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004775428 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004775429 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004775430 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004775431 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004775432 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004775433 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004775434 - Replacing with 0.
+
+Unrecognized values used for CHROM: NW_004775435 - Replacing with 0.
+Done.
+After filtering, kept 670774442 out of a possible 670774442 Sites
+Run Time = 4810.00 seconds
