@@ -4,6 +4,10 @@
 
 USAGE: Build Annotation For human Genome or Epigenome
 
+Timeline: 
+
+* 2020/01/01: GWAS-Catalog Updated to hg38 from hg19. 
+
 Basic information should be included:
 
 1, genomic assemble version: hg19, hg38, mm9, mm10
