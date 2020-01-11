@@ -6,7 +6,7 @@ USAGE: Build Annotation For human Genome or Epigenome
 
 Timeline: 
 
-* 2020/01/01: GWAS-Catalog Updated to hg38 from hg19. 
+* 2020/01/01: [GWAS-Catalog](../gwascatlog) Updated to hg38 from hg19. 
 
 Basic information should be included:
 
