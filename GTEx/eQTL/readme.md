@@ -13,4 +13,4 @@ perl eqtl2matrix.pl > eqtl.v8.txt
 
 Question:
 
-* rs17632542 showed in GETx website, however not in downloaded V8_eQTL files. Why? (solved they are in v8.signif_variant_gene_pairs.tx)
+* rs17632542 showed in GETx website, however not in downloaded V8_eQTL files. Why? (`solved they are in v8.signif_variant_gene_pairs.txt`)
