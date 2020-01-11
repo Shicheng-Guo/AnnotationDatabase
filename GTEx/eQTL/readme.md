@@ -1,5 +1,4 @@
-### script to merge eQTL-V8 to data.matrix
-
+* script to merge eQTL-V8 to data.matrix
 ```
 wget https://storage.googleapis.com/gtex_analysis_v8/single_tissue_qtl_data/GTEx_Analysis_v8_eQTL.tar
 tar xvf GTEx_Analysis_v8_eQTL.tar
@@ -8,7 +7,10 @@ gunzip *.gz
 wget https://raw.githubusercontent.com/Shicheng-Guo/AnnotationDatabase/master/eQTL/GTEx/eqtl2matrix.pl
 perl eqtl2matrix.pl > eqtl.v8.txt
 ```
+* script to add rs id to v8.signif_variant_gene_pairs.txt
+```
+```
 
 Question:
 
-* rs17632542 showed in GETx website, however not in downloaded V8_eQTL files. Why?
+* rs17632542 showed in GETx website, however not in downloaded V8_eQTL files. Why? (solved they are in v8.signif_variant_gene_pairs.tx)
