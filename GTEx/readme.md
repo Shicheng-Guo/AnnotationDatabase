@@ -3,5 +3,5 @@
 Timeline: 
 
 * 2020/01/11: download v8.signif_variant_gene_pairs.txt and add rs ID to the files with [perl script]()
-
+* 2019/08/08: download v8.egenes.txt and merge them with [perl script]()
 * 2017/10/12: GTEx Consortium update in [Nature 2017](https://www.nature.com/articles/nature24277): Genetic effects on gene expression across human tissues
