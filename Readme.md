@@ -5,7 +5,7 @@
 USAGE: Build Annotation For human Genome or Epigenome
 
 Timeline: 
-
+* update TCGA-pan-meta differential analysis and survival analysis, not accurate since no confounding adjust
 * don't forget to add ENSG in the output files since one SNP will have multiple records with different genes
 * only SNPs, P-value were kept in 49 eQTL `v8.signif_variant_gene_pairs.txt` so that files `<25M`
 * majority of the time is used to read dbSNP153.bin.chain.txt into memmory and loop eqtl is very fast
