@@ -5,6 +5,8 @@
 USAGE: Build Annotation For human Genome or Epigenome
 
 Timeline: 
+
+* don't forget to add ENSG in the output files since one SNP will have multiple records with different genes
 * only SNPs, P-value were kept in 49 eQTL `v8.signif_variant_gene_pairs.txt` so that files `<25M`
 * majority of the time is used to read dbSNP153.bin.chain.txt into memmory and loop eqtl is very fast
 * dbSNP153.bin.chain.txt is `21G` and will be `105G` in the CHG1 memory and takes `25` minutes with [add rsid perl script](https://github.com/Shicheng-Guo/AnnotationDatabase/blob/master/GTEx/bin/addrs2pairs.pl)
