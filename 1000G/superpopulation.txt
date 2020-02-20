@@ -1,0 +1,26 @@
+CHB	EAS	Han Chinese in Beijing, China
+JPT	EAS	Japanese in Tokyo, Japan
+CHS	EAS	Southern Han Chinese
+CDX	EAS	Chinese Dai in Xishuangbanna, China
+KHV	EAS	Kinh in Ho Chi Minh City, Vietnam
+CEU	EUR	Utah Residents (CEPH) with Northern and Western European Ancestry
+TSI	EUR	Toscani in Italia
+FIN	EUR	Finnish in Finland
+GBR	EUR	British in England and Scotland
+IBS	EUR	Iberian Population in Spain
+YRI	AFR	Yoruba in Ibadan, Nigeria
+LWK	AFR	Luhya in Webuye, Kenya
+GWD	AFR	Gambian in Western Divisions in the Gambia
+MSL	AFR	Mende in Sierra Leone
+ESN	AFR	Esan in Nigeria
+ASW	AFR	Americans of African Ancestry in SW USA
+ACB	AFR	African Caribbeans in Barbados
+MXL	AMR	Mexican Ancestry from Los Angeles USA
+PUR	AMR	Puerto Ricans from Puerto Rico
+CLM	AMR	Colombians from Medellin, Colombia
+PEL	AMR	Peruvians from Lima, Peru
+GIH	SAS	Gujarati Indian from Houston, Texas
+PJL	SAS	Punjabi from Lahore, Pakistan
+BEB	SAS	Bengali from Bangladesh
+STU	SAS	Sri Lankan Tamil from the UK
+ITU	SAS	Indian Telugu from the UK
