@@ -11,3 +11,10 @@ wget https://storage.googleapis.com/gnomad-public/release/3.0/vcf/genomes/gnomad
 wget https://storage.googleapis.com/gnomad-public/release/3.0/vcf/genomes/gnomad.genomes.r3.0.sites.chr$i.vcf.bgz.tbi
 done
 ```
+* Add fake genotypes
+```
+```
+
+* vcf2plink
+```
+```
