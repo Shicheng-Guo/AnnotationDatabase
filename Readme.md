@@ -5,6 +5,7 @@
 USAGE: Build Annotation For human Genome or Epigenome
 
 Timeline: 
+* 2020/02/26: NHLBI Exome Sequencing Project (ESP), Exome Variant Server: https://evs.gs.washington.edu/EVS/
 * 2020/01/12: update [TCGA-pan-meta differential and survival analysis](./TCGA/), not accurate since no confounding adjust
 * don't forget to add ENSG in the output files since one SNP will have multiple records with different genes
 * only SNPs, P-value were kept in 49 eQTL `v8.signif_variant_gene_pairs.txt` so that files `<25M`
